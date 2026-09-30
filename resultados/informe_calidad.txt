@@ -1,0 +1,13 @@
+ANALISIS DE PRECIOS DE VINO
+
+Filas originales: 4170
+Duplicados exactos eliminados: 0
+Filas sin precio valido o con precio equivalente menor a 500 CRC: 46
+Filas disponibles para analisis descriptivo: 4124
+Filas etiquetadas para clasificacion: 3390
+Fechas: 2026-09-10 a 2026-09-29
+Precio equivalente mediano (CRC por 750 ml): 6070.00
+
+Modelo elegido: clasificacion supervisada de segmento_precio.
+Los precios sospechosos se excluyen del modelo, no se corrigen automaticamente.
+La prueba usa las fechas mas recientes; el resultado es exploratorio por la corta profundidad historica.

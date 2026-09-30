@@ -1,0 +1,783 @@
+﻿fecha_extraccion,categoria,producto,retailer,precio_equivalente_750ml_crc,segmento_precio,prediccion_segmento,acierto
+2026-09-29,Vino rosado,viña esmeralda vino rosado español aroma frutal 750 ml,pricesmart costa rica,3970.0,económico,económico,True
+2026-09-29,Vino rosado,ramón bilbao vino rosado 750 ml / 25.36 oz,pricesmart costa rica,7495.0,medio,medio,True
+2026-09-29,Vino rosado,dibon vino rosado sin alcohol 750 ml / 25.3 oz,pricesmart costa rica,7795.0,medio,medio,True
+2026-09-29,Vino rosado,pasqua 11 minutes vino rosado 750 ml,pricesmart costa rica,13995.0,premium,premium,True
+2026-09-29,Vino rosado,soupçon de fruit rosé d'anjou botella de vino rosado 750 ml / 25.4 oz,pricesmart costa rica,7795.0,medio,medio,True
+2026-09-29,Vino rosado,the beach by whispering angel vino rosado francés 750 ml,pricesmart costa rica,12470.0,premium,premium,True
+2026-09-29,Vino rosado,astoria prosecco rosé vino rosado 750 ml / 25.4 oz,pricesmart costa rica,5795.0,medio,medio,True
+2026-09-29,Vino rosado,mateus the original vino rosado espumoso portugués 1 l,pricesmart costa rica,5846.25,medio,medio,True
+2026-09-29,Vino rosado,pack jp chenet rosé dry vino espumoso 750 ml + chocolate vizzio 70 g,pricesmart costa rica,6370.0,medio,medio,True
+2026-09-29,Vino rosado,les jamelles vino rosado francés 750 ml / 25.36 oz,pricesmart costa rica,8795.0,medio,medio,True
+2026-09-29,Vino rosado,woodbridge vino rosado zinfandel blanco 750 ml / 25.36 oz,pricesmart costa rica,5995.0,medio,medio,True
+2026-09-29,Vino rosado,calvet rose d'anjou vino rosado 750 ml / 25.4 oz,pricesmart costa rica,7495.01,medio,medio,True
+2026-09-29,Vino blanco,torresella pinot grigio delle venezie vino blanco 750 ml,pricesmart costa rica,9995.0,medio,medio,True
+2026-09-29,Vino blanco,las moras pinot grigio vino blanco botella de 750 ml / 25.4 oz,pricesmart costa rica,5495.0,medio,medio,True
+2026-09-29,Vino blanco,pulpo albariño vino blanco 750 ml,pricesmart costa rica,11795.0,premium,premium,True
+2026-09-29,Vino blanco,casal mendes vino verde 750 ml / 25.4 oz,pricesmart costa rica,5495.0,medio,medio,True
+2026-09-28,Vino rosado,woodbridge vino rosado zinfandel blanco 750 ml / 25.36 oz,pricesmart costa rica,5995.0,medio,medio,True
+2026-09-28,Vino rosado,calvet rose d'anjou vino rosado 750 ml / 25.4 oz,pricesmart costa rica,7495.01,medio,medio,True
+2026-09-28,Vino blanco,torresella pinot grigio delle venezie vino blanco 750 ml,pricesmart costa rica,9995.0,medio,medio,True
+2026-09-28,Vino blanco,casal garcía vino blanco vinho verde 750 ml,pricesmart costa rica,7995.0,medio,medio,True
+2026-09-28,Vino blanco,las moras pinot grigio vino blanco botella de 750 ml / 25.4 oz,pricesmart costa rica,5495.0,medio,medio,True
+2026-09-28,Vino blanco,pulpo albariño vino blanco 750 ml,pricesmart costa rica,11795.0,premium,premium,True
+2026-09-27,Vino blanco,casal mendes vino verde 750 ml / 25.4 oz,pricesmart costa rica,5495.0,medio,medio,True
+2026-09-27,Vino blanco,pulpo albariño vino blanco 750 ml,pricesmart costa rica,11795.0,premium,premium,True
+2026-09-27,Vino blanco,las moras pinot grigio vino blanco botella de 750 ml / 25.4 oz,pricesmart costa rica,5495.0,medio,medio,True
+2026-09-27,Vino blanco,casal garcía vino blanco vinho verde 750 ml,pricesmart costa rica,7995.0,medio,medio,True
+2026-09-27,Vino blanco,gemma di luna pinot grigio vino blanco 750 ml,pricesmart costa rica,9495.0,medio,medio,True
+2026-09-27,Vino rosado,calvet rose d'anjou vino rosado 750 ml / 25.4 oz,pricesmart costa rica,7495.01,medio,medio,True
+2026-09-27,Vino rosado,woodbridge vino rosado zinfandel blanco 750 ml / 25.36 oz,pricesmart costa rica,5995.0,medio,medio,True
+2026-09-27,Vino rosado,les jamelles vino rosado francés 750 ml / 25.36 oz,pricesmart costa rica,8795.0,medio,medio,True
+2026-09-27,Vino tinto,arrogante frog cabernet sauvignon merlot vino tinto 750 ml,pricesmart costa rica,4970.0,económico,económico,True
+2026-09-27,Vino blanco,loma negra chardonnay classic vino blanco 750 ml / 25.4 oz,pricesmart costa rica,2395.0,económico,económico,True
+2026-09-26,Vino tinto,douce nature vino tinto pinot noir orgánico 750 ml / 25.36 oz,pricesmart costa rica,7670.0,medio,medio,True
+2026-09-26,Vino blanco,frontera concha & toro vino blanco sauvignon blanc semi 1.5 l,pricesmart costa rica,3897.5,económico,económico,True
+2026-09-26,Vino blanco,marqués de riscal vino blanco 750 ml,pricesmart costa rica,7995.0,medio,medio,True
+2026-09-27,Vino tinto,santa rita 120 carmenere vino tinto 750 ml,pricesmart costa rica,6495.0,medio,medio,True
+2026-09-27,Vino tinto,bin 27 vino tinto reserve port fonseca 750 ml / 25.36 oz,pricesmart costa rica,14295.0,premium,premium,True
+2026-09-27,Vino tinto,pulenta estate malbec vino tinto 750 ml,pricesmart costa rica,20995.0,super premium,super premium,True
+2026-09-27,Vino tinto,caliterra reserva vino tinto cabernet sauvignon 750 ml,pricesmart costa rica,6495.0,medio,medio,True
+2026-09-27,Vino tinto,mantrús reserva vino tinto ribera del duero 750 ml / 25.36 oz,pricesmart costa rica,4995.0,económico,económico,True
+2026-09-27,Vino tinto,montecillo rioja crianza vino tinto 750 ml,pricesmart costa rica,9470.0,medio,medio,True
+2026-09-27,Vino tinto,mantrús crianza vino tinto 750 ml / 25.36 oz,pricesmart costa rica,3770.0,económico,económico,True
+2026-09-27,Vino tinto,misiones de rengo vino tinto cabernet sauvignon 750 ml / 25.36 oz,pricesmart costa rica,5995.0,medio,medio,True
+2026-09-27,Vino rosado,soupçon de fruit rosé d'anjou botella de vino rosado 750 ml / 25.4 oz,pricesmart costa rica,7795.0,medio,medio,True
+2026-09-27,Vino rosado,the beach by whispering angel vino rosado francés 750 ml,pricesmart costa rica,12470.0,premium,premium,True
+2026-09-27,Vino rosado,pasqua 11 minutes vino rosado 750 ml,pricesmart costa rica,13995.0,premium,premium,True
+2026-09-27,Vino rosado,mateus the original vino rosado espumoso portugués 1 l,pricesmart costa rica,5846.25,medio,medio,True
+2026-09-27,Vino rosado,viña esmeralda vino rosado español aroma frutal 750 ml,pricesmart costa rica,3970.0,económico,económico,True
+2026-09-27,Vino rosado,taanug vino rosado francés aroma a fresas 750 ml,pricesmart costa rica,8795.0,medio,medio,True
+2026-09-26,Vino tinto,catena vista flores vino tinto malbec 750 ml,pricesmart costa rica,12995.0,premium,premium,True
+2026-09-26,Vino tinto,santa rita 120 reserva especial vino tinto 4 unidades / 187.5 ml / 6.3 oz,pricesmart costa rica,7495.0,medio,medio,True
+2026-09-27,Vino blanco,protos verdejo vino blanco 750 ml,pricesmart costa rica,7495.0,medio,medio,True
+2026-09-27,Vino blanco,marqués de riscal vino blanco 750 ml,pricesmart costa rica,7995.0,medio,medio,True
+2026-09-27,Vino blanco,frontera concha & toro vino blanco sauvignon blanc semi 1.5 l,pricesmart costa rica,3897.5,económico,económico,True
+2026-09-27,Vino blanco,santa margherita vino blanco pinot grigio 750 ml / 25.36 oz,pricesmart costa rica,15495.0,super premium,super premium,True
+2026-09-27,Vino blanco,clos de pirque vino blanco 3 unidades / 1 l,pricesmart costa rica,1698.75,económico,económico,True
+2026-09-27,Vino blanco,los vascos vino blanco sauvignon blanc 750 ml / 25.36 oz,pricesmart costa rica,10495.0,premium,premium,True
+2026-09-26,Vino blanco,protos verdejo vino blanco 750 ml,pricesmart costa rica,7495.0,medio,medio,True
+2026-09-26,Vino blanco,loma negra chardonnay classic vino blanco 750 ml / 25.4 oz,pricesmart costa rica,2395.0,económico,económico,True
+2026-09-26,Vino tinto,arrogante frog cabernet sauvignon merlot vino tinto 750 ml,pricesmart costa rica,4970.0,económico,económico,True
+2026-09-26,Vino tinto,mantrús crianza vino tinto 750 ml / 25.36 oz,pricesmart costa rica,3770.0,económico,económico,True
+2026-09-26,Vino tinto,misiones de rengo vino tinto cabernet sauvignon 750 ml / 25.36 oz,pricesmart costa rica,5995.0,medio,medio,True
+2026-09-26,Vino tinto,montecillo rioja crianza vino tinto 750 ml,pricesmart costa rica,9470.0,medio,medio,True
+2026-09-26,Vino tinto,m. chapoutier vino tinto côtes du rhône 750 ml / 25.36 oz,pricesmart costa rica,10495.0,premium,premium,True
+2026-09-26,Vino tinto,carlo rossi vino tinto cuerpo medio 3 l / 101.4 oz,pricesmart costa rica,3448.75,económico,económico,True
+2026-09-26,Vino blanco,las moras pinot grigio vino blanco botella de 750 ml / 25.4 oz,pricesmart costa rica,5495.0,medio,medio,True
+2026-09-26,Vino blanco,pulpo albariño vino blanco 750 ml,pricesmart costa rica,11795.0,premium,premium,True
+2026-09-26,Vino tinto,faustino rivero ulecia set vinos rioja 3 unidades / 750 ml,pricesmart costa rica,6931.67,medio,medio,True
+2026-09-26,Vino blanco,los vascos vino blanco sauvignon blanc 750 ml / 25.36 oz,pricesmart costa rica,10495.0,premium,premium,True
+2026-09-26,Vino blanco,clos de pirque vino blanco 3 unidades / 1 l,pricesmart costa rica,1698.75,económico,económico,True
+2026-09-26,Vino blanco,santa margherita vino blanco pinot grigio 750 ml / 25.36 oz,pricesmart costa rica,15495.0,super premium,super premium,True
+2026-09-26,Vino blanco,pasqua vino blanco pinot grigio 750 ml / 25.36 oz,pricesmart costa rica,7795.0,medio,medio,True
+2026-09-26,Vino blanco,casal garcía vino blanco vinho verde 750 ml,pricesmart costa rica,7995.0,medio,medio,True
+2026-09-26,Vino blanco,casal mendes vino verde 750 ml / 25.4 oz,pricesmart costa rica,5495.0,medio,medio,True
+2026-09-26,Vino tinto,vino clos de pirque cabernet sauvignon - 1000ml,walmart costa rica,1725.0,económico,económico,True
+2026-09-26,Vino tinto,vino clos de pirque tinto merlot - 1000ml,walmart costa rica,1875.0,económico,económico,True
+2026-09-26,Vino tinto,2 pack sangria peñasol tinta -1000ml,walmart costa rica,3487.5,económico,económico,True
+2026-09-26,Vino tinto,navarro colección privada vero faraone malbec - 750ml,walmart costa rica,11630.0,premium,premium,True
+2026-09-26,Vino tinto,vino tinto finca las moras malbec con 13.5% vol - 750 ml,walmart costa rica,5830.0,medio,económico,False
+2026-09-26,Vino tinto,vino frontera merlot -1500 ml,walmart costa rica,3750.0,económico,económico,True
+2026-09-26,Vino tinto,vino tinto contenda merlot - 750 ml,walmart costa rica,2580.0,económico,económico,True
+2026-09-26,Vinos general,vino mr wild chardonnay 750 ml,walmart costa rica,11150.0,premium,premium,True
+2026-09-26,Vinos general,vino don símon tinto de mesa - 1000ml,walmart costa rica,1620.0,económico,económico,True
+2026-09-26,Vinos general,vino i’m your organic blanco viura -750 ml,walmart costa rica,5790.0,medio,medio,True
+2026-09-26,Vinos general,vino casillero del diablo chardonnay - 750ml,walmart costa rica,8800.0,medio,medio,True
+2026-09-26,Vinos general,vino marques de caceres blanco 750ml,walmart costa rica,8020.0,medio,medio,True
+2026-09-26,Vino tinto,vino clos dp cabernet tinto sauvignon - 2000ml vendido por walmart patrocinado,walmart costa rica,11630.0,premium,premium,True
+2026-09-26,Vino tinto,vino viña maipo classic series cabernet sauvignon -750 ml,walmart costa rica,3340.0,económico,económico,True
+2026-09-26,Vino tinto,vino frontera frutal tinto de verano manzana naranja - 750 ml,walmart costa rica,4400.0,económico,económico,True
+2026-09-26,Vino tinto,vino tinto don simón tempranillo -750 ml,walmart costa rica,1980.0,económico,económico,True
+2026-09-26,Vino tinto,vino viña maipo clasic series merlot - 750 ml,walmart costa rica,3340.0,económico,económico,True
+2026-09-26,Vinos general,vino torres celeste roble tinto - 750 ml,walmart costa rica,10000.0,medio,medio,True
+2026-09-26,Vinos general,vino tarapacá tinto merlot - 750 ml,walmart costa rica,5670.0,medio,medio,True
+2026-09-26,Vino tinto,vino clos dp cabernet tinto sauvignon - 2000ml,walmart costa rica,4680.0,económico,económico,True
+2026-09-26,Vinos general,frontera cabernet sauvignon 750ml,walmart costa rica,5800.0,medio,medio,True
+2026-09-26,Vinos general,vino orgánico adobe merlot – 375 ml,walmart costa rica,6500.0,medio,medio,True
+2026-09-26,Vinos general,frontera frutal pink paradise 750ml,walmart costa rica,4400.0,económico,económico,True
+2026-09-26,Vino tinto,vino tinto luigi bosca malbec - 750 ml,walmart costa rica,11500.0,premium,premium,True
+2026-09-26,Vino tinto,vino orgánico adobe cabernet sauvignon - 375 ml,walmart costa rica,6500.0,medio,medio,True
+2026-09-26,Vino blanco,vino contenda sauvignon blanc - 750 ml,masxmenos costa rica,2600.0,económico,económico,True
+2026-09-26,Vino blanco,vino adobe chardonnay orgánico -375 ml,masxmenos costa rica,6500.0,medio,medio,True
+2026-09-26,Vino blanco,vino marques de caceres blanco 750ml,masxmenos costa rica,8020.0,medio,medio,True
+2026-09-26,Vino blanco,vino maipo sauvignon blanco clasic series -750 ml,masxmenos costa rica,3380.0,económico,económico,True
+2026-09-26,Vino blanco,vino don simón premium selección chardonnay - 1000 ml,masxmenos costa rica,1897.5,económico,económico,True
+2026-09-26,Vino blanco,vino peter brum liebfraulmil blan - 750ml,masxmenos costa rica,5600.0,medio,medio,True
+2026-09-26,Vinos general,vino viñas del tango malbec - 1125 ml,walmart costa rica,5333.33,medio,medio,True
+2026-09-26,Vinos general,vino tinto santa cecilia cabernet sauvignon – 1500 ml,walmart costa rica,3680.0,económico,económico,True
+2026-09-26,Vinos general,vino tinto santa rita 120 carmenere - 750ml,walmart costa rica,7970.0,medio,medio,True
+2026-09-26,Vinos general,vino misiones rengo cabernet 750 ml,walmart costa rica,4740.0,económico,económico,True
+2026-09-26,Vino tinto,vino tinto don simón premium cabernet - 1 l,walmart costa rica,1942.5,económico,económico,True
+2026-09-26,Vino tinto,vino blanco trapiche pinot grigio -750ml,walmart costa rica,5480.0,medio,medio,True
+2026-09-26,Vino tinto,vino santa cecilia tinto cabernet sauvignon -750 ml,walmart costa rica,3870.0,económico,económico,True
+2026-09-26,Vino tinto,2 pack sangría don simon -3000ml,walmart costa rica,1627.5,económico,económico,True
+2026-09-26,Vino tinto,vino tinto teber dulce - 750ml,walmart costa rica,3830.0,económico,económico,True
+2026-09-26,Vino tinto,vino don simon premium merlot - 1000ml,walmart costa rica,1815.0,económico,económico,True
+2026-09-26,Vino blanco,vino maipo blanco chardonnay -1.5 l,masxmenos costa rica,3750.0,económico,económico,True
+2026-09-26,Vino blanco,vino tinto fantini trebbiano d abruzzo -750ml,masxmenos costa rica,6110.0,medio,medio,True
+2026-09-26,Vinos general,vino tinto luigi bosca cabernet sauvignon 2020 - 750 ml,walmart costa rica,11500.0,premium,premium,True
+2026-09-26,Vino blanco,vino marina alta blanco 00 - 750 ml,masxmenos costa rica,8600.0,medio,medio,True
+2026-09-26,Vino blanco,vino luigi bosca de sangre - 750 ml,masxmenos costa rica,16600.0,super premium,super premium,True
+2026-09-26,Vino blanco,vino blanco frontera spritzer chardonnay eldelflower - 750 ml,masxmenos costa rica,5910.0,medio,medio,True
+2026-09-26,Vinos general,vino casillero del diablo chardonnay - 750ml vendido por walmart patrocinado,walmart costa rica,5790.0,medio,premium,False
+2026-09-26,Vinos general,vino marques de caceres blanco 750ml vendido por walmart patrocinado,walmart costa rica,8800.0,medio,medio,True
+2026-09-26,Vino rosado,vino làudum gran reserva - 750 ml,masxmenos costa rica,12700.0,premium,premium,True
+2026-09-26,Vino rosado,vino les jamelles petite rosado - 750 ml,masxmenos costa rica,9810.0,medio,medio,True
+2026-09-26,Vino rosado,vino laudum chardonnay - 750 ml,masxmenos costa rica,9200.0,medio,medio,True
+2026-09-26,Vino rosado,vino rose carnivor apothic - 750 ml,masxmenos costa rica,14590.0,premium,premium,True
+2026-09-26,Vino rosado,frontera frutal pink paradise 750ml,masxmenos costa rica,4400.0,económico,económico,True
+2026-09-26,Vino rosado,vino tinto trapiche vineyards malbec 3 pack - 2250 ml,masxmenos costa rica,4100.0,económico,económico,True
+2026-09-26,Vino blanco,vino santa carolina chardonay botella - 750 ml,masxmenos costa rica,4100.0,económico,económico,True
+2026-09-26,Vino blanco,navarro col. privada chardonnay 750 ml,masxmenos costa rica,10300.0,premium,premium,True
+2026-09-26,Vino tinto,vino tinto contenda merlot - 750 ml vendido por walmart patrocinado,walmart costa rica,7500.0,medio,económico,False
+2026-09-26,Vino tinto,vino tinto don simón tempranillo -750 ml vendido por walmart patrocinado,walmart costa rica,2580.0,económico,económico,True
+2026-09-26,Vino tinto,vino clos de pirque cabernet sauvignon - 1000ml vendido por walmart patrocinado,walmart costa rica,2505.0,económico,económico,True
+2026-09-26,Vino tinto,vino clos de pirque tinto merlot - 1000ml vendido por walmart patrocinado,walmart costa rica,1725.0,económico,económico,True
+2026-09-26,Vino tinto,vino viña maipo varietal merlot 1.5l,walmart costa rica,3750.0,económico,económico,True
+2026-09-26,Vino blanco,vino blanco carmen frida sauvignon blanc – 750 ml,masxmenos costa rica,7040.0,medio,medio,True
+2026-09-26,Vino blanco,vino sta rita 3 med bco sauvig 750 ml,masxmenos costa rica,4730.0,económico,económico,True
+2026-09-26,Vinos general,vino tinto undurraga cabernet - 750 ml,walmart costa rica,5120.0,medio,medio,True
+2026-09-26,Vinos general,"vino rosado b &amp; g cotes de provence, 2 pack -750 ml",walmart costa rica,20760.0,super premium,super premium,True
+2026-09-26,Vinos general,vino tinto albali pinot grigio -750ml,walmart costa rica,4820.0,económico,económico,True
+2026-09-26,Vinos general,vino beringer zinfandel rosado - 750ml,walmart costa rica,6300.0,medio,medio,True
+2026-09-26,Vinos general,vino pata negra valdepenas crianza - 750 ml,walmart costa rica,5670.0,medio,medio,True
+2026-09-26,Vinos general,vino tinto robert mondavi mondavi cabernet sauvignon - 750 ml,walmart costa rica,13960.0,premium,premium,True
+2026-09-26,Vino tinto,vino tinto finca las moras malbec con 13.5% vol - 750 ml vendido por walmart patrocinado,walmart costa rica,4680.0,económico,medio,False
+2026-09-26,Vino tinto,vino frontera merlot -1500 ml vendido por walmart patrocinado,walmart costa rica,2915.0,económico,económico,True
+2026-09-26,Vino rosado,vino rosado trapiche vineyards argentino - 750 ml,masxmenos costa rica,5640.0,medio,medio,True
+2026-09-26,Vino rosado,vino frontera rosado concha y toro chile - 750 ml,masxmenos costa rica,5770.0,medio,medio,True
+2026-09-26,Vino blanco,vino blanco pasqua pinot grigio -1500ml,masxmenos costa rica,5780.0,medio,medio,True
+2026-09-26,Vino rosado,vino trivento reserva malbec rosado - 750 ml,masxmenos costa rica,8730.0,medio,medio,True
+2026-09-26,Vino rosado,vino planeta la segreta bianco - 750 ml,masxmenos costa rica,14300.0,premium,premium,True
+2026-09-26,Vino rosado,vino dulce rosado st. helena – 750 ml,masxmenos costa rica,5220.0,medio,medio,True
+2026-09-26,Vino blanco,vino maipo sauvignon blanco clasic series -750 ml patrocinado,masxmenos costa rica,8020.0,medio,económico,False
+2026-09-26,Vino blanco,vino don simón premium selección chardonnay - 1000 ml patrocinado,masxmenos costa rica,2535.0,económico,económico,True
+2026-09-26,Frontera,vino rosado frontera gently bubbly spritzer roses -750 ml patrocinado,masxmenos costa rica,6070.0,medio,medio,True
+2026-09-26,Frontera,vino blanco frontera chardonnay viñedo protegido por la naturaleza - 750 ml patrocinado,masxmenos costa rica,5770.0,medio,medio,True
+2026-09-26,Frontera,vino blanco frontera spritzer chardonnay eldelflower - 750 ml patrocinado,masxmenos costa rica,6070.0,medio,medio,True
+2026-09-26,Frontera,"vinos sub-categoría vino tinto vino blanco vino rosado departamento cervezas, vinos y licores rebaja exclusiva en línea rangos de precio",masxmenos costa rica,4200.0,económico,económico,True
+2026-09-26,Frontera,vino frontera frutal tropical mango maracuyá - 750 ml,masxmenos costa rica,4400.0,económico,económico,True
+2026-09-26,Frontera,vino blanco frontera sauvignon blanc - 1500 ml,masxmenos costa rica,4560.0,económico,económico,True
+2026-09-26,Vino rosado,vino im your organic rosé - 750 ml,masxmenos costa rica,5840.0,medio,medio,True
+2026-09-26,Vino rosado,vino rosado cune bailarina 750mlx6,masxmenos costa rica,8670.0,medio,medio,True
+2026-09-26,Vinos general,vino orgánico adobe merlot – 375 ml vendido por walmart patrocinado,walmart costa rica,11600.0,premium,premium,True
+2026-09-26,Vinos general,vino tinto santa rita 120 carmenere - 750ml vendido por walmart patrocinado,walmart costa rica,5200.0,medio,medio,True
+2026-09-26,Vino tinto,vino viña maipo clasic series merlot - 750 ml vendido por walmart patrocinado,walmart costa rica,1980.0,económico,económico,True
+2026-09-26,Vinos general,vino don símon tinto de mesa - 1000ml vendido por walmart patrocinado,walmart costa rica,8362.5,medio,económico,False
+2026-09-26,Vinos general,vino i’m your organic blanco viura -750 ml vendido por walmart patrocinado,walmart costa rica,2160.0,económico,medio,False
+2026-09-26,Vino rosado,vino làudum barrica - 750 ml,masxmenos costa rica,11200.0,premium,premium,True
+2026-09-26,Vino rosado,vino rosado ijalba rioja eco -750ml,masxmenos costa rica,9790.0,medio,medio,True
+2026-09-26,Vino blanco,vino peter brum liebfraulmil blan - 750ml patrocinado,masxmenos costa rica,2530.0,económico,económico,True
+2026-09-26,Vino blanco,vino blanco protos verdejo criado sobre lias finas - 750 ml patrocinado,masxmenos costa rica,5600.0,medio,medio,True
+2026-09-26,Vino blanco,vino blanco teber dulce - 750ml,masxmenos costa rica,3950.0,económico,económico,True
+2026-09-26,Vino blanco,vino blanco la linda sweet viognier – 750 ml,masxmenos costa rica,8380.0,medio,medio,True
+2026-09-26,Vino blanco,vino frontera chardonnay - 1500ml,masxmenos costa rica,8940.0,medio,medio,True
+2026-09-26,Vino blanco,vino blanco protos verdejo criado sobre lias finas - 750 ml,masxmenos costa rica,8310.0,medio,medio,True
+2026-09-26,Vino blanco,vino clos de pirque blanco - 1000ml,masxmenos costa rica,1867.5,económico,económico,True
+2026-09-26,Vino tinto,clos de pirque vino tinto cabernet sauvignon 3 unidades / 1 l,pricesmart costa rica,1698.75,económico,económico,True
+2026-09-26,Vino tinto,rioja próximo tempranillo vino tinto 750 ml / 25.4 oz,pricesmart costa rica,5795.0,medio,medio,True
+2026-09-26,Vino rosado,vino rosado canti prosecco - 750 ml,masxmenos costa rica,10810.0,premium,premium,True
+2026-09-26,Frontera,vino frontera concha y toro merlot - 750ml patrocinado,masxmenos costa rica,9380.0,medio,medio,True
+2026-09-26,Frontera,vino frontera merlot -1500 ml patrocinado,masxmenos costa rica,2965.0,económico,económico,True
+2026-09-26,Frontera,vino frontera rosado concha y toro chile - 750 ml patrocinado,masxmenos costa rica,7500.0,medio,medio,True
+2026-09-26,Vino rosado,vino laudum chardonnay - 750 ml patrocinado,masxmenos costa rica,9810.0,medio,medio,True
+2026-09-26,Vino rosado,vino rose carnivor apothic - 750 ml patrocinado,masxmenos costa rica,9200.0,medio,premium,False
+2026-09-26,Vino tinto,real compañia vino tinto tempranillo botella de 750 ml / 25.4 oz,pricesmart costa rica,4995.0,económico,económico,True
+2026-09-26,Vino tinto,muga vino tinto español el anden de la estación 750 ml,pricesmart costa rica,15495.0,super premium,super premium,True
+2026-09-26,Vino tinto,campo viejo vino tinto reserva 750 ml,pricesmart costa rica,14995.0,premium,premium,True
+2026-09-26,Vino tinto,baron philippe de rothschild vino tinto cabernet sauvignon 750 ml / 25.36 oz,pricesmart costa rica,9295.0,medio,medio,True
+2026-09-26,Vino tinto,montes limited selection vino cabernet sauvignon camenère 750 ml / 25.3 oz,pricesmart costa rica,10495.0,premium,premium,True
+2026-09-26,Vino tinto,ramon bilbao vino tinto crianza 750 ml,pricesmart costa rica,11495.0,premium,premium,True
+2026-09-26,Vino tinto,marques caceres crianza vino tinto 750 ml / 25.4 oz,pricesmart costa rica,9295.0,medio,premium,False
+2026-09-26,Vino tinto,cune vino tinto crianza rioja 750 ml / 25.36 oz,pricesmart costa rica,8795.0,medio,medio,True
+2026-09-26,Vino rosado,vino rosado frontera gently bubbly spritzer roses -750 ml,masxmenos costa rica,5770.0,medio,medio,True
+2026-09-26,Vino rosado,vino marques de caceres rosado rioja - 750ml,masxmenos costa rica,8810.0,medio,medio,True
+2026-09-26,Vinos general,vino misiones rengo cabernet 750 ml vendido por walmart patrocinado,walmart costa rica,7970.0,medio,medio,True
+2026-09-26,Vino blanco,vino contenda sauvignon blanc - 750 ml patrocinado,masxmenos costa rica,4730.0,económico,económico,True
+2026-09-26,Vino blanco,vino adobe chardonnay orgánico -375 ml patrocinado,masxmenos costa rica,5200.0,medio,medio,True
+2026-09-26,Vino blanco,vino marques de caceres blanco 750ml patrocinado,masxmenos costa rica,4900.0,económico,económico,True
+2026-09-26,Frontera,vino tinto frontera carmenere viñedo protegido por la naturaleza - 750 ml patrocinado,masxmenos costa rica,5770.0,medio,medio,True
+2026-09-26,Frontera,vino frontera blanco sauvignon concha y toro - 750 ml patrocinado,masxmenos costa rica,5930.0,medio,medio,True
+2026-09-26,Vino rosado,vino tinto trapiche vineyards malbec 3 pack - 2250 ml patrocinado,masxmenos costa rica,1740.0,económico,económico,True
+2026-09-26,Vino rosado,vino orgánico adobe rosé – 375 ml patrocinado,masxmenos costa rica,24600.0,super premium,super premium,True
+2026-09-26,Vino rosado,vino soupcon de fruit rose d'anjou 2020 - 750 ml patrocinado,masxmenos costa rica,4900.0,económico,medio,False
+2026-09-26,Vino rosado,vino rosado frontera gently bubbly spritzer roses -750 ml patrocinado,masxmenos costa rica,8020.0,medio,medio,True
+2026-09-26,Vino rosado,vino marques de caceres rosado rioja - 750ml patrocinado,masxmenos costa rica,5770.0,medio,medio,True
+2026-09-26,Vino rosado,vino rosado cono sur bicicleta pinot noir - 750 ml,masxmenos costa rica,6300.0,medio,medio,True
+2026-09-26,Vino rosado,vino orgánico adobe rosé – 375 ml,masxmenos costa rica,6500.0,medio,medio,True
+2026-09-26,Vino rosado,vino soupcon de fruit rose d&apos;anjou 2020 - 750 ml,masxmenos costa rica,8020.0,medio,medio,True
+2026-09-26,Vino rosado,mateus the original vino rosado espumoso portugués 1 l,pricesmart costa rica,5846.25,medio,medio,True
+2026-09-27,Vino tinto,vino clos de pirque tinto merlot - 1000ml,walmart costa rica,1875.0,económico,económico,True
+2026-09-26,Vino tinto,loma negra vino tinto merlot 750 ml / 25.4 oz,pricesmart costa rica,2395.0,económico,económico,True
+2026-09-26,Vino tinto,santa rita 120 carmenere vino tinto 750 ml,pricesmart costa rica,6495.0,medio,medio,True
+2026-09-26,Vino tinto,pasqua zin primitivo vino tinto 750 ml,pricesmart costa rica,11995.0,premium,premium,True
+2026-09-26,Vino tinto,cantina fiorentino primitivo salento vino tinto 750 ml,pricesmart costa rica,9795.0,medio,medio,True
+2026-09-26,Vino tinto,montepulciano vino tinto de frutos rojos 1.5 l / 51 oz,pricesmart costa rica,4397.5,económico,económico,True
+2026-09-26,Vino tinto,finca las moras botella de vino tinto malbec suave al paladar 750 ml / 25.4 oz,pricesmart costa rica,5495.0,medio,medio,True
+2026-09-26,Vino rosado,soupçon de fruit rosé d'anjou botella de vino rosado 750 ml / 25.4 oz,pricesmart costa rica,7795.0,medio,medio,True
+2026-09-26,Vino rosado,astoria prosecco rosé vino rosado 750 ml / 25.4 oz,pricesmart costa rica,5795.0,medio,medio,True
+2026-09-26,Vino rosado,pack jp chenet rosé dry vino espumoso 750 ml + chocolate vizzio 70 g,pricesmart costa rica,6370.0,medio,medio,True
+2026-09-26,Vino rosado,les jamelles vino rosado francés 750 ml / 25.36 oz,pricesmart costa rica,8795.0,medio,medio,True
+2026-09-26,Vino rosado,woodbridge vino rosado zinfandel blanco 750 ml / 25.36 oz,pricesmart costa rica,5995.0,medio,medio,True
+2026-09-26,Vino rosado,calvet rose d'anjou vino rosado 750 ml / 25.4 oz,pricesmart costa rica,7495.01,medio,medio,True
+2026-09-26,Vino rosado,taanug vino rosado francés aroma a fresas 750 ml,pricesmart costa rica,8795.0,medio,medio,True
+2026-09-26,Vino rosado,viña esmeralda vino rosado español aroma frutal 750 ml,pricesmart costa rica,3970.0,económico,económico,True
+2026-09-26,Frontera,vino frontera concha y toro merlot - 750ml,masxmenos costa rica,5930.0,medio,medio,True
+2026-09-26,Frontera,vino frontera merlot -1500 ml,masxmenos costa rica,3750.0,económico,económico,True
+2026-09-26,Vino blanco,vino sta rita 3 med bco sauvig 750 ml patrocinado,masxmenos costa rica,7040.0,medio,económico,False
+2026-09-26,Frontera,vino frontera blanco sauvignon concha y toro - 750 ml,masxmenos costa rica,6070.0,medio,medio,True
+2026-09-26,Frontera,vino blanco frontera chardonnay viñedo protegido por la naturaleza - 750 ml,masxmenos costa rica,6070.0,medio,medio,True
+2026-09-26,Vino tinto,el coto crianza rioja vino tinto tempranillo 750 ml,pricesmart costa rica,9795.0,medio,medio,True
+2026-09-26,Vino tinto,ruffino vino tinto chianti classico 750 ml / 25.36 oz,pricesmart costa rica,8495.0,medio,medio,True
+2026-09-26,Vino tinto,twin view estates cabernet sauvignon vino tinto 1.5 l,pricesmart costa rica,3397.5,económico,económico,True
+2026-09-26,Vino tinto,portia roble tempranillo vino tinto 750 ml,pricesmart costa rica,10995.0,premium,premium,True
+2026-09-26,Vino tinto,frontera merlot vino tinto chileno botella de 1.5 l / 51 oz,pricesmart costa rica,3647.5,económico,económico,True
+2026-09-26,Vino tinto,hacienda lópez de haro vino crianza 750 ml,pricesmart costa rica,8795.0,medio,medio,True
+2026-09-26,Vino tinto,manischewitz concord grape vino tinto 750 ml / 25.36 oz,pricesmart costa rica,5495.0,medio,medio,True
+2026-09-26,Vino tinto,apothic vino tinto 750 ml / 25.4 oz,pricesmart costa rica,9495.0,medio,medio,True
+2026-09-26,Frontera,frontera cabernet sauvignon 750ml,masxmenos costa rica,5930.0,medio,medio,True
+2026-09-26,Frontera,vino frontera tinto concha y toro cabernet - 1500 ml,masxmenos costa rica,4690.0,económico,económico,True
+2026-09-27,Vinos general,vino i’m your organic blanco viura -750 ml,walmart costa rica,5790.0,medio,medio,True
+2026-09-27,Vinos general,vino don símon tinto de mesa - 1000ml,walmart costa rica,1620.0,económico,económico,True
+2026-09-27,Vino tinto,vino clos de pirque cabernet sauvignon - 1000ml,walmart costa rica,1725.0,económico,económico,True
+2026-09-27,Vino tinto,vino viña maipo clasic series merlot - 750 ml,walmart costa rica,3340.0,económico,económico,True
+2026-09-27,Vino tinto,vino tinto don simón tempranillo -750 ml,walmart costa rica,1980.0,económico,económico,True
+2026-09-27,Vino tinto,vino tinto contenda merlot - 750 ml,walmart costa rica,2580.0,económico,económico,True
+2026-09-27,Vino tinto,vino frontera merlot -1500 ml,walmart costa rica,3750.0,económico,económico,True
+2026-09-27,Vino tinto,vino tinto finca las moras malbec con 13.5% vol - 750 ml,walmart costa rica,5830.0,medio,económico,False
+2026-09-27,Vino tinto,vino viña maipo clasic series merlot - 750 ml vendido por walmart patrocinado,walmart costa rica,1980.0,económico,económico,True
+2026-09-27,Vino tinto,vino tinto don simón tempranillo -750 ml vendido por walmart patrocinado,walmart costa rica,2580.0,económico,económico,True
+2026-09-27,Vino tinto,vino tinto contenda merlot - 750 ml vendido por walmart patrocinado,walmart costa rica,7500.0,medio,económico,False
+2026-09-27,Vino tinto,vino frontera merlot -1500 ml vendido por walmart patrocinado,walmart costa rica,2915.0,económico,económico,True
+2026-09-27,Vino tinto,vino tinto finca las moras malbec con 13.5% vol - 750 ml vendido por walmart patrocinado,walmart costa rica,4680.0,económico,medio,False
+2026-09-27,Vino tinto,vino clos dp cabernet tinto sauvignon - 2000ml vendido por walmart patrocinado,walmart costa rica,11630.0,premium,premium,True
+2026-09-27,Vinos general,vino marques de caceres blanco 750ml,walmart costa rica,8020.0,medio,medio,True
+2026-09-27,Vinos general,vino casillero del diablo chardonnay - 750ml,walmart costa rica,8800.0,medio,medio,True
+2026-09-27,Vino tinto,vino santa cecilia tinto cabernet sauvignon -750 ml,walmart costa rica,3870.0,económico,económico,True
+2026-09-27,Vino tinto,vino blanco trapiche pinot grigio -750ml,walmart costa rica,5480.0,medio,medio,True
+2026-09-26,Frontera,vino tinto frontera carmenere viñedo protegido por la naturaleza - 750 ml,masxmenos costa rica,5930.0,medio,medio,True
+2026-09-26,Vino tinto,legado muñoz vino tinto tempranillo 750 ml / 25.4 oz,pricesmart costa rica,4795.0,económico,económico,True
+2026-09-26,Vino tinto,alamos vino tinto malbec 750 ml,pricesmart costa rica,7495.0,medio,medio,True
+2026-09-26,Vino tinto,marqués de riscal vino tinto rioja reserva 750 ml,pricesmart costa rica,15995.0,super premium,super premium,True
+2026-09-26,Vino rosado,pasqua 11 minutes vino rosado 750 ml,pricesmart costa rica,13995.0,premium,premium,True
+2026-09-26,Vino rosado,the beach by whispering angel vino rosado francés 750 ml,pricesmart costa rica,12470.0,premium,premium,True
+2026-09-27,Vino tinto,vino clos dp cabernet tinto sauvignon - 2000ml,walmart costa rica,4680.0,económico,económico,True
+2026-09-27,Vino tinto,navarro colección privada vero faraone malbec - 750ml,walmart costa rica,11630.0,premium,premium,True
+2026-09-27,Vino tinto,2 pack sangria peñasol tinta -1000ml,walmart costa rica,3487.5,económico,económico,True
+2026-09-27,Vino tinto,vino frontera frutal tinto de verano manzana naranja - 750 ml,walmart costa rica,4400.0,económico,económico,True
+2026-09-27,Vino tinto,vino viña maipo classic series cabernet sauvignon -750 ml,walmart costa rica,3340.0,económico,económico,True
+2026-09-27,Vino tinto,vino don simon premium merlot - 1000ml,walmart costa rica,1815.0,económico,económico,True
+2026-09-27,Vino tinto,vino tinto teber dulce - 750ml,walmart costa rica,3830.0,económico,económico,True
+2026-09-27,Vino tinto,2 pack sangría don simon -3000ml,walmart costa rica,1627.5,económico,económico,True
+2026-09-27,Vino blanco,vino marques de caceres blanco 750ml,masxmenos costa rica,8020.0,medio,medio,True
+2026-09-27,Vino blanco,vino adobe chardonnay orgánico -375 ml,masxmenos costa rica,6500.0,medio,medio,True
+2026-09-27,Vinos general,vino mr wild chardonnay 750 ml,walmart costa rica,11150.0,premium,premium,True
+2026-09-27,Vinos general,vino misiones rengo cabernet 750 ml,walmart costa rica,4740.0,económico,económico,True
+2026-09-27,Vinos general,vino tinto santa rita 120 carmenere - 750ml,walmart costa rica,7970.0,medio,medio,True
+2026-09-27,Vinos general,vino torres celeste roble tinto - 750 ml,walmart costa rica,10000.0,medio,medio,True
+2026-09-27,Vinos general,frontera frutal pink paradise 750ml,walmart costa rica,4400.0,económico,económico,True
+2026-09-27,Vinos general,vino orgánico adobe merlot – 375 ml,walmart costa rica,6500.0,medio,medio,True
+2026-09-27,Vinos general,vino misiones rengo cabernet 750 ml vendido por walmart patrocinado,walmart costa rica,7970.0,medio,medio,True
+2026-09-27,Vinos general,vino tinto santa rita 120 carmenere - 750ml vendido por walmart patrocinado,walmart costa rica,13050.0,premium,medio,False
+2026-09-27,Vinos general,vino torres celeste roble tinto - 750 ml vendido por walmart patrocinado,walmart costa rica,5200.0,medio,medio,True
+2026-09-27,Vino blanco,vino clos de pirque blanco - 1000ml,masxmenos costa rica,1867.5,económico,económico,True
+2026-09-27,Vino blanco,vino blanco protos verdejo criado sobre lias finas - 750 ml,masxmenos costa rica,8310.0,medio,medio,True
+2026-09-27,Vino blanco,vino peter brum liebfraulmil blan - 750ml,masxmenos costa rica,5600.0,medio,medio,True
+2026-09-27,Vino blanco,vino don simón premium selección chardonnay - 1000 ml,masxmenos costa rica,1897.5,económico,económico,True
+2026-09-27,Vino blanco,vino maipo sauvignon blanco clasic series -750 ml,masxmenos costa rica,3380.0,económico,económico,True
+2026-09-27,Vinos general,"vino rosado b &amp; g cotes de provence, 2 pack -750 ml",walmart costa rica,20760.0,super premium,super premium,True
+2026-09-27,Vinos general,vino tinto undurraga cabernet - 750 ml,walmart costa rica,5120.0,medio,medio,True
+2026-09-27,Vino tinto,vino tinto don simón premium cabernet - 1 l,walmart costa rica,1942.5,económico,económico,True
+2026-09-27,Vino tinto,vino orgánico adobe cabernet sauvignon - 375 ml,walmart costa rica,6500.0,medio,medio,True
+2026-09-27,Vino tinto,vino tinto luigi bosca malbec - 750 ml,walmart costa rica,11500.0,premium,premium,True
+2026-09-27,Vino tinto,vino viña maipo varietal merlot 1.5l,walmart costa rica,3750.0,económico,económico,True
+2026-09-27,Vino tinto,vino clos de pirque tinto merlot - 1000ml vendido por walmart patrocinado,walmart costa rica,1725.0,económico,económico,True
+2026-09-27,Vino tinto,vino clos de pirque cabernet sauvignon - 1000ml vendido por walmart patrocinado,walmart costa rica,2505.0,económico,económico,True
+2026-09-27,Vinos general,frontera cabernet sauvignon 750ml,walmart costa rica,5800.0,medio,medio,True
+2026-09-27,Vinos general,vino tinto luigi bosca cabernet sauvignon 2020 - 750 ml,walmart costa rica,11500.0,premium,premium,True
+2026-09-27,Vinos general,vino tarapacá tinto merlot - 750 ml,walmart costa rica,5670.0,medio,medio,True
+2026-09-27,Vinos general,vino tinto santa cecilia cabernet sauvignon – 1500 ml,walmart costa rica,3680.0,económico,económico,True
+2026-09-27,Vinos general,vino viñas del tango malbec - 1125 ml,walmart costa rica,5333.33,medio,medio,True
+2026-09-27,Vinos general,vino tinto robert mondavi mondavi cabernet sauvignon - 750 ml,walmart costa rica,13960.0,premium,premium,True
+2026-09-27,Vinos general,vino pata negra valdepenas crianza - 750 ml,walmart costa rica,5670.0,medio,medio,True
+2026-09-27,Vinos general,vino beringer zinfandel rosado - 750ml,walmart costa rica,6300.0,medio,medio,True
+2026-09-27,Vino rosado,vino rosado ijalba rioja eco -750ml,masxmenos costa rica,9790.0,medio,medio,True
+2026-09-27,Vino rosado,vino làudum gran reserva - 750 ml,masxmenos costa rica,12700.0,premium,premium,True
+2026-09-27,Vino blanco,vino contenda sauvignon blanc - 750 ml,masxmenos costa rica,2600.0,económico,económico,True
+2026-09-27,Vino blanco,vino sta rita 3 med bco sauvig 750 ml,masxmenos costa rica,4730.0,económico,económico,True
+2026-09-27,Vino blanco,vino blanco carmen frida sauvignon blanc – 750 ml,masxmenos costa rica,7040.0,medio,medio,True
+2026-09-27,Vino blanco,vino blanco frontera spritzer chardonnay eldelflower - 750 ml,masxmenos costa rica,5910.0,medio,medio,True
+2026-09-27,Vino blanco,vino luigi bosca de sangre - 750 ml,masxmenos costa rica,16600.0,super premium,super premium,True
+2026-09-27,Vino blanco,vino marina alta blanco 00 - 750 ml,masxmenos costa rica,8600.0,medio,medio,True
+2026-09-27,Vino blanco,vino sta rita 3 med bco sauvig 750 ml patrocinado,masxmenos costa rica,7040.0,medio,económico,False
+2026-09-27,Vino rosado,vino marques de caceres rosado rioja - 750ml,masxmenos costa rica,8810.0,medio,medio,True
+2026-09-27,Vino rosado,vino rosado frontera gently bubbly spritzer roses -750 ml,masxmenos costa rica,5770.0,medio,medio,True
+2026-09-27,Vino rosado,vino soupcon de fruit rose d&apos;anjou 2020 - 750 ml,masxmenos costa rica,8020.0,medio,medio,True
+2026-09-27,Vino rosado,vino orgánico adobe rosé – 375 ml,masxmenos costa rica,6500.0,medio,medio,True
+2026-09-27,Vino rosado,vino tinto trapiche vineyards malbec 3 pack - 2250 ml,masxmenos costa rica,4100.0,económico,económico,True
+2026-09-27,Vino rosado,frontera frutal pink paradise 750ml,masxmenos costa rica,4400.0,económico,económico,True
+2026-09-27,Vino rosado,vino rose carnivor apothic - 750 ml,masxmenos costa rica,14590.0,premium,premium,True
+2026-09-27,Vino blanco,vino blanco protos verdejo criado sobre lias finas - 750 ml patrocinado,masxmenos costa rica,5600.0,medio,medio,True
+2026-09-27,Vinos general,vino undurraga tinto merlot -750 ml,walmart costa rica,4240.0,económico,económico,True
+2026-09-27,Vinos general,vino marques de caceres blanco 750ml vendido por walmart patrocinado,walmart costa rica,8800.0,medio,medio,True
+2026-09-27,Vinos general,vino casillero del diablo chardonnay - 750ml vendido por walmart patrocinado,walmart costa rica,5790.0,medio,premium,False
+2026-09-27,Vinos general,vino i’m your organic blanco viura -750 ml vendido por walmart patrocinado,walmart costa rica,2160.0,económico,medio,False
+2026-09-27,Vinos general,vino don símon tinto de mesa - 1000ml vendido por walmart patrocinado,walmart costa rica,8362.5,medio,económico,False
+2026-09-27,Vino blanco,vino blanco pasqua pinot grigio -1500ml,masxmenos costa rica,5780.0,medio,medio,True
+2026-09-27,Vino blanco,navarro col. privada chardonnay 750 ml,masxmenos costa rica,10300.0,premium,premium,True
+2026-09-27,Vino blanco,vino tinto fantini trebbiano d abruzzo -750ml,masxmenos costa rica,6110.0,medio,medio,True
+2026-09-27,Vino blanco,vino santa carolina chardonay botella - 750 ml,masxmenos costa rica,4100.0,económico,económico,True
+2026-09-27,Vino blanco,vino frontera chardonnay - 1500ml,masxmenos costa rica,8940.0,medio,medio,True
+2026-09-27,Vino blanco,vino maipo blanco chardonnay -1.5 l,masxmenos costa rica,3750.0,económico,económico,True
+2026-09-27,Vino blanco,vino blanco teber dulce - 750ml,masxmenos costa rica,3950.0,económico,económico,True
+2026-09-27,Vino blanco,vino blanco la linda sweet viognier – 750 ml,masxmenos costa rica,8380.0,medio,medio,True
+2026-09-27,Frontera,vino blanco frontera spritzer chardonnay eldelflower - 750 ml patrocinado,masxmenos costa rica,6070.0,medio,medio,True
+2026-09-27,Frontera,vino blanco frontera chardonnay viñedo protegido por la naturaleza - 750 ml patrocinado,masxmenos costa rica,5770.0,medio,medio,True
+2026-09-27,Vino rosado,vino làudum barrica - 750 ml,masxmenos costa rica,11200.0,premium,premium,True
+2026-09-27,Vino rosado,vino les jamelles petite rosado - 750 ml,masxmenos costa rica,9810.0,medio,medio,True
+2026-09-27,Vino rosado,vino laudum chardonnay - 750 ml,masxmenos costa rica,9200.0,medio,medio,True
+2026-09-27,Vino rosado,vino dulce rosado st. helena – 750 ml,masxmenos costa rica,5220.0,medio,medio,True
+2026-09-27,Vino rosado,vino cavicchioli lambrusco rosato dulce - 750 ml,masxmenos costa rica,5200.0,medio,medio,True
+2026-09-27,Vino rosado,vino rosado canti prosecco - 750 ml,masxmenos costa rica,10810.0,premium,premium,True
+2026-09-27,Frontera,vino tinto frontera carmenere viñedo protegido por la naturaleza - 750 ml,masxmenos costa rica,5930.0,medio,medio,True
+2026-09-27,Frontera,vino frontera merlot -1500 ml,masxmenos costa rica,3750.0,económico,económico,True
+2026-09-27,Frontera,vino frontera concha y toro merlot - 750ml,masxmenos costa rica,5930.0,medio,medio,True
+2026-09-27,Frontera,vino frontera tinto concha y toro cabernet - 1500 ml,masxmenos costa rica,4690.0,económico,económico,True
+2026-09-27,Frontera,frontera cabernet sauvignon 750ml,masxmenos costa rica,5930.0,medio,medio,True
+2026-09-27,Frontera,vino blanco frontera sauvignon blanc - 1500 ml,masxmenos costa rica,4560.0,económico,económico,True
+2026-09-27,Frontera,vino frontera frutal tropical mango maracuyá - 750 ml,masxmenos costa rica,4400.0,económico,económico,True
+2026-09-27,Frontera,"vinos sub-categoría vino tinto vino blanco vino rosado departamento cervezas, vinos y licores rebaja exclusiva en línea rangos de precio",masxmenos costa rica,4200.0,económico,económico,True
+2026-09-27,Vino rosado,vino soupcon de fruit rose d'anjou 2020 - 750 ml patrocinado,masxmenos costa rica,4900.0,económico,medio,False
+2026-09-27,Vino rosado,vino orgánico adobe rosé – 375 ml patrocinado,masxmenos costa rica,24600.0,super premium,super premium,True
+2026-09-27,Vino blanco,vino peter brum liebfraulmil blan - 750ml patrocinado,masxmenos costa rica,2530.0,económico,económico,True
+2026-09-27,Vino blanco,vino don simón premium selección chardonnay - 1000 ml patrocinado,masxmenos costa rica,2535.0,económico,económico,True
+2026-09-27,Vino blanco,vino maipo sauvignon blanco clasic series -750 ml patrocinado,masxmenos costa rica,8020.0,medio,económico,False
+2026-09-27,Vino blanco,vino marques de caceres blanco 750ml patrocinado,masxmenos costa rica,4900.0,económico,económico,True
+2026-09-27,Vino blanco,vino adobe chardonnay orgánico -375 ml patrocinado,masxmenos costa rica,5200.0,medio,medio,True
+2026-09-27,Vino blanco,vino contenda sauvignon blanc - 750 ml patrocinado,masxmenos costa rica,4730.0,económico,económico,True
+2026-09-27,Vino rosado,vino frontera rosado concha y toro chile - 750 ml,masxmenos costa rica,5770.0,medio,medio,True
+2026-09-27,Vino rosado,vino rosado trapiche vineyards argentino - 750 ml,masxmenos costa rica,5640.0,medio,medio,True
+2026-09-27,Vino rosado,vino planeta la segreta bianco - 750 ml,masxmenos costa rica,14300.0,premium,premium,True
+2026-09-27,Vino rosado,vino im your organic rosé - 750 ml,masxmenos costa rica,5840.0,medio,medio,True
+2026-09-27,Vino rosado,vino rosado cune bailarina 750mlx6,masxmenos costa rica,8670.0,medio,medio,True
+2026-09-27,Vino rosado,vino rosado cono sur bicicleta pinot noir - 750 ml,masxmenos costa rica,6300.0,medio,medio,True
+2026-09-27,Vino rosado,vino marques de caceres rosado rioja - 750ml patrocinado,masxmenos costa rica,5770.0,medio,medio,True
+2026-09-27,Vino rosado,vino rosado frontera gently bubbly spritzer roses -750 ml patrocinado,masxmenos costa rica,8020.0,medio,medio,True
+2026-09-27,Vino tinto,muga vino tinto español el anden de la estación 750 ml,pricesmart costa rica,15495.0,super premium,super premium,True
+2026-09-27,Vino tinto,campo viejo vino tinto reserva 750 ml,pricesmart costa rica,14995.0,premium,premium,True
+2026-09-27,Frontera,vino rosado frontera gently bubbly spritzer roses -750 ml patrocinado,masxmenos costa rica,6070.0,medio,medio,True
+2026-09-27,Frontera,vino frontera blanco sauvignon concha y toro - 750 ml patrocinado,masxmenos costa rica,5930.0,medio,medio,True
+2026-09-27,Frontera,vino tinto frontera carmenere viñedo protegido por la naturaleza - 750 ml patrocinado,masxmenos costa rica,5770.0,medio,medio,True
+2026-09-27,Frontera,vino frontera rosado concha y toro chile - 750 ml patrocinado,masxmenos costa rica,7500.0,medio,medio,True
+2026-09-27,Frontera,vino frontera merlot -1500 ml patrocinado,masxmenos costa rica,2965.0,económico,económico,True
+2026-09-27,Frontera,vino frontera concha y toro merlot - 750ml patrocinado,masxmenos costa rica,9380.0,medio,medio,True
+2026-09-27,Vino tinto,santa rita 120 reserva especial vino tinto 4 unidades / 187.5 ml / 6.3 oz,pricesmart costa rica,7495.0,medio,medio,True
+2026-09-27,Vino tinto,faustino rivero ulecia set vinos rioja 3 unidades / 750 ml,pricesmart costa rica,6931.67,medio,medio,True
+2026-09-27,Vino tinto,carlo rossi vino tinto cuerpo medio 3 l / 101.4 oz,pricesmart costa rica,3448.75,económico,económico,True
+2026-09-27,Vino tinto,m. chapoutier vino tinto côtes du rhône 750 ml / 25.36 oz,pricesmart costa rica,10495.0,premium,premium,True
+2026-09-27,Vino tinto,ramon bilbao vino tinto crianza 750 ml,pricesmart costa rica,11495.0,premium,premium,True
+2026-09-27,Vino tinto,montes limited selection vino cabernet sauvignon camenère 750 ml / 25.3 oz,pricesmart costa rica,10495.0,premium,premium,True
+2026-09-27,Vino tinto,baron philippe de rothschild vino tinto cabernet sauvignon 750 ml / 25.36 oz,pricesmart costa rica,9295.0,medio,medio,True
+2026-09-27,Vino tinto,catena vista flores vino tinto malbec 750 ml,pricesmart costa rica,12995.0,premium,premium,True
+2026-09-27,Vino tinto,frontera merlot vino tinto chileno botella de 1.5 l / 51 oz,pricesmart costa rica,3647.5,económico,económico,True
+2026-09-27,Vino tinto,twin view estates cabernet sauvignon vino tinto 1.5 l,pricesmart costa rica,3397.5,económico,económico,True
+2026-09-27,Vino rosado,vino tinto trapiche vineyards malbec 3 pack - 2250 ml patrocinado,masxmenos costa rica,1740.0,económico,económico,True
+2026-09-27,Vino rosado,vino rose carnivor apothic - 750 ml patrocinado,masxmenos costa rica,9790.0,medio,premium,False
+2026-09-27,Frontera,vino blanco frontera chardonnay viñedo protegido por la naturaleza - 750 ml,masxmenos costa rica,6070.0,medio,medio,True
+2026-09-27,Frontera,vino frontera blanco sauvignon concha y toro - 750 ml,masxmenos costa rica,6070.0,medio,medio,True
+2026-09-27,Vino tinto,loma negra vino tinto merlot 750 ml / 25.4 oz,pricesmart costa rica,2395.0,económico,económico,True
+2026-09-27,Vino tinto,rioja próximo tempranillo vino tinto 750 ml / 25.4 oz,pricesmart costa rica,5795.0,medio,medio,True
+2026-09-27,Vino tinto,clos de pirque vino tinto cabernet sauvignon 3 unidades / 1 l,pricesmart costa rica,1698.75,económico,económico,True
+2026-09-27,Vino tinto,cune vino tinto crianza rioja 750 ml / 25.36 oz,pricesmart costa rica,8795.0,medio,medio,True
+2026-09-27,Vino tinto,marques caceres crianza vino tinto 750 ml / 25.4 oz,pricesmart costa rica,9295.0,medio,premium,False
+2026-09-27,Vino tinto,manischewitz concord grape vino tinto 750 ml / 25.36 oz,pricesmart costa rica,5495.0,medio,medio,True
+2026-09-27,Vino tinto,apothic vino tinto 750 ml / 25.4 oz,pricesmart costa rica,9495.0,medio,medio,True
+2026-09-27,Vino tinto,hacienda lópez de haro vino crianza 750 ml,pricesmart costa rica,8795.0,medio,medio,True
+2026-09-26,Vino tinto,caliterra reserva vino tinto cabernet sauvignon 750 ml,pricesmart costa rica,6495.0,medio,medio,True
+2026-09-26,Vino tinto,pulenta estate malbec vino tinto 750 ml,pricesmart costa rica,20995.0,super premium,super premium,True
+2026-09-27,Vino tinto,real compañia vino tinto tempranillo botella de 750 ml / 25.4 oz,pricesmart costa rica,4995.0,económico,económico,True
+2026-09-27,Vino tinto,el coto crianza rioja vino tinto tempranillo 750 ml,pricesmart costa rica,9795.0,medio,medio,True
+2026-09-27,Vino tinto,ruffino vino tinto chianti classico 750 ml / 25.36 oz,pricesmart costa rica,8495.0,medio,medio,True
+2026-09-27,Vino tinto,cantina fiorentino primitivo salento vino tinto 750 ml,pricesmart costa rica,9795.0,medio,medio,True
+2026-09-27,Vino tinto,pasqua zin primitivo vino tinto 750 ml,pricesmart costa rica,11995.0,premium,premium,True
+2026-09-27,Vino tinto,douce nature vino tinto pinot noir orgánico 750 ml / 25.36 oz,pricesmart costa rica,7670.0,medio,medio,True
+2026-09-28,Vino tinto,navarro colección privada vero faraone malbec - 750ml,walmart costa rica,11630.0,premium,premium,True
+2026-09-28,Vino tinto,vino tinto finca las moras malbec con 13.5% vol - 750 ml,walmart costa rica,5830.0,medio,económico,False
+2026-09-28,Vino tinto,vino frontera merlot -1500 ml,walmart costa rica,3750.0,económico,económico,True
+2026-09-28,Vino tinto,vino tinto contenda merlot - 750 ml,walmart costa rica,2580.0,económico,económico,True
+2026-09-28,Vino tinto,vino tinto don simón tempranillo -750 ml,walmart costa rica,1980.0,económico,económico,True
+2026-09-28,Vino tinto,vino viña maipo clasic series merlot - 750 ml,walmart costa rica,3340.0,económico,económico,True
+2026-09-28,Vino tinto,vino clos de pirque cabernet sauvignon - 1000ml,walmart costa rica,1725.0,económico,económico,True
+2026-09-28,Vino tinto,vino clos de pirque tinto merlot - 1000ml,walmart costa rica,1875.0,económico,económico,True
+2026-09-27,Vino rosado,pack jp chenet rosé dry vino espumoso 750 ml + chocolate vizzio 70 g,pricesmart costa rica,6370.0,medio,medio,True
+2026-09-27,Vino rosado,astoria prosecco rosé vino rosado 750 ml / 25.4 oz,pricesmart costa rica,5795.0,medio,medio,True
+2026-09-27,Vino tinto,portia roble tempranillo vino tinto 750 ml,pricesmart costa rica,10995.0,premium,premium,True
+2026-09-27,Vino tinto,finca las moras botella de vino tinto malbec suave al paladar 750 ml / 25.4 oz,pricesmart costa rica,5495.0,medio,medio,True
+2026-09-27,Vino tinto,montepulciano vino tinto de frutos rojos 1.5 l / 51 oz,pricesmart costa rica,4397.5,económico,económico,True
+2026-09-27,Vino tinto,marqués de riscal vino tinto rioja reserva 750 ml,pricesmart costa rica,15995.0,super premium,super premium,True
+2026-09-27,Vino tinto,alamos vino tinto malbec 750 ml,pricesmart costa rica,7495.0,medio,medio,True
+2026-09-27,Vino tinto,legado muñoz vino tinto tempranillo 750 ml / 25.4 oz,pricesmart costa rica,4795.0,económico,económico,True
+2026-09-28,Vino tinto,vino viña maipo clasic series merlot - 750 ml vendido por walmart patrocinado,walmart costa rica,1980.0,económico,económico,True
+2026-09-28,Vino tinto,vino clos de pirque cabernet sauvignon - 1000ml vendido por walmart patrocinado,walmart costa rica,2505.0,económico,económico,True
+2026-09-28,Vino tinto,vino clos de pirque tinto merlot - 1000ml vendido por walmart patrocinado,walmart costa rica,1725.0,económico,económico,True
+2026-09-28,Vino tinto,vino viña maipo varietal merlot 1.5l,walmart costa rica,3750.0,económico,económico,True
+2026-09-28,Vino tinto,vino tinto luigi bosca malbec - 750 ml,walmart costa rica,11500.0,premium,premium,True
+2026-09-28,Vino tinto,vino orgánico adobe cabernet sauvignon - 375 ml,walmart costa rica,6500.0,medio,medio,True
+2026-09-28,Vino tinto,vino tinto don simón premium cabernet - 1 l,walmart costa rica,1942.5,económico,económico,True
+2026-09-28,Vino tinto,vino blanco trapiche pinot grigio -750ml,walmart costa rica,5480.0,medio,medio,True
+2026-09-28,Vino tinto,vino santa cecilia tinto cabernet sauvignon -750 ml,walmart costa rica,3870.0,económico,económico,True
+2026-09-28,Vino tinto,2 pack sangría don simon -3000ml,walmart costa rica,1627.5,económico,económico,True
+2026-09-28,Vino tinto,vino don simon premium merlot - 1000ml,walmart costa rica,1815.0,económico,económico,True
+2026-09-28,Vino tinto,vino tinto teber dulce - 750ml,walmart costa rica,3830.0,económico,económico,True
+2026-09-28,Vino tinto,vino viña maipo classic series cabernet sauvignon -750 ml,walmart costa rica,3340.0,económico,económico,True
+2026-09-28,Vino tinto,vino frontera frutal tinto de verano manzana naranja - 750 ml,walmart costa rica,4400.0,económico,económico,True
+2026-09-28,Vino tinto,2 pack sangria peñasol tinta -1000ml,walmart costa rica,3487.5,económico,económico,True
+2026-09-28,Vino tinto,vino clos dp cabernet tinto sauvignon - 2000ml,walmart costa rica,4680.0,económico,económico,True
+2026-09-28,Vinos general,vino tinto luigi bosca cabernet sauvignon 2020 - 750 ml,walmart costa rica,11500.0,premium,premium,True
+2026-09-28,Vinos general,frontera cabernet sauvignon 750ml,walmart costa rica,5800.0,medio,medio,True
+2026-09-28,Vinos general,frontera frutal pink paradise 750ml,walmart costa rica,4400.0,económico,económico,True
+2026-09-28,Vinos general,vino torres celeste roble tinto - 750 ml,walmart costa rica,10000.0,medio,medio,True
+2026-09-28,Vinos general,vino misiones rengo cabernet 750 ml,walmart costa rica,4740.0,económico,económico,True
+2026-09-28,Vinos general,vino tinto santa rita 120 carmenere - 750ml,walmart costa rica,7970.0,medio,medio,True
+2026-09-28,Vinos general,vino mr wild chardonnay 750 ml,walmart costa rica,11150.0,premium,premium,True
+2026-09-28,Vinos general,vino don símon tinto de mesa - 1000ml,walmart costa rica,1620.0,económico,económico,True
+2026-09-28,Vinos general,vino casillero del diablo chardonnay - 750ml,walmart costa rica,8800.0,medio,medio,True
+2026-09-28,Vinos general,vino i’m your organic blanco viura -750 ml,walmart costa rica,5790.0,medio,medio,True
+2026-09-28,Vinos general,vino marques de caceres blanco 750ml,walmart costa rica,8020.0,medio,medio,True
+2026-09-28,Vino tinto,vino tinto finca las moras malbec con 13.5% vol - 750 ml vendido por walmart patrocinado,walmart costa rica,11630.0,premium,medio,False
+2026-09-28,Vino tinto,vino frontera merlot -1500 ml vendido por walmart patrocinado,walmart costa rica,2915.0,económico,económico,True
+2026-09-28,Vino tinto,vino tinto contenda merlot - 750 ml vendido por walmart patrocinado,walmart costa rica,7500.0,medio,económico,False
+2026-09-28,Vino tinto,vino tinto don simón tempranillo -750 ml vendido por walmart patrocinado,walmart costa rica,2580.0,económico,económico,True
+2026-09-28,Vinos general,vino mr wild chardonnay 750 ml vendido por walmart patrocinado,walmart costa rica,7970.0,medio,premium,False
+2026-09-28,Vinos general,vino don símon tinto de mesa - 1000ml vendido por walmart patrocinado,walmart costa rica,8362.5,medio,económico,False
+2026-09-28,Vinos general,vino casillero del diablo chardonnay - 750ml vendido por walmart patrocinado,walmart costa rica,2160.0,económico,premium,False
+2026-09-28,Vinos general,vino i’m your organic blanco viura -750 ml vendido por walmart patrocinado,walmart costa rica,8800.0,medio,medio,True
+2026-09-28,Vinos general,vino marques de caceres blanco 750ml vendido por walmart patrocinado,walmart costa rica,5790.0,medio,medio,True
+2026-09-28,Vinos general,vino tinto protos roble botella - 750 ml,walmart costa rica,12140.0,premium,premium,True
+2026-09-28,Vinos general,vino undurraga tinto merlot -750 ml,walmart costa rica,4240.0,económico,económico,True
+2026-09-28,Vinos general,vino tinto undurraga cabernet - 750 ml,walmart costa rica,5120.0,medio,medio,True
+2026-09-28,Vinos general,"vino rosado b &amp; g cotes de provence, 2 pack -750 ml",walmart costa rica,20760.0,super premium,super premium,True
+2026-09-28,Vinos general,vino beringer zinfandel rosado - 750ml,walmart costa rica,6300.0,medio,medio,True
+2026-09-28,Vinos general,vino pata negra valdepenas crianza - 750 ml,walmart costa rica,5670.0,medio,medio,True
+2026-09-28,Vinos general,vino tinto robert mondavi mondavi cabernet sauvignon - 750 ml,walmart costa rica,13960.0,premium,premium,True
+2026-09-28,Vinos general,vino viñas del tango malbec - 1125 ml,walmart costa rica,5333.33,medio,medio,True
+2026-09-28,Vinos general,vino tinto santa cecilia cabernet sauvignon – 1500 ml,walmart costa rica,3680.0,económico,económico,True
+2026-09-28,Vinos general,vino tarapacá tinto merlot - 750 ml,walmart costa rica,5670.0,medio,medio,True
+2026-09-28,Vino blanco,vino blanco pasqua pinot grigio -1500ml,masxmenos costa rica,5780.0,medio,medio,True
+2026-09-28,Vino blanco,vino marina alta blanco 00 - 750 ml,masxmenos costa rica,8600.0,medio,medio,True
+2026-09-28,Vino blanco,vino luigi bosca de sangre - 750 ml,masxmenos costa rica,16600.0,super premium,super premium,True
+2026-09-28,Vino blanco,vino blanco frontera spritzer chardonnay eldelflower - 750 ml,masxmenos costa rica,5910.0,medio,medio,True
+2026-09-28,Vino blanco,vino blanco carmen frida sauvignon blanc – 750 ml,masxmenos costa rica,7040.0,medio,medio,True
+2026-09-28,Vino blanco,vino sta rita 3 med bco sauvig 750 ml,masxmenos costa rica,4730.0,económico,económico,True
+2026-09-28,Vino blanco,vino contenda sauvignon blanc - 750 ml,masxmenos costa rica,2600.0,económico,económico,True
+2026-09-28,Vino blanco,vino adobe chardonnay orgánico -375 ml,masxmenos costa rica,6500.0,medio,medio,True
+2026-09-28,Vino blanco,vino marques de caceres blanco 750ml,masxmenos costa rica,8020.0,medio,medio,True
+2026-09-28,Vino blanco,vino maipo sauvignon blanco clasic series -750 ml,masxmenos costa rica,3380.0,económico,económico,True
+2026-09-28,Vino blanco,vino don simón premium selección chardonnay - 1000 ml,masxmenos costa rica,1897.5,económico,económico,True
+2026-09-28,Vino blanco,vino peter brum liebfraulmil blan - 750ml,masxmenos costa rica,5600.0,medio,medio,True
+2026-09-28,Vino blanco,vino blanco protos verdejo criado sobre lias finas - 750 ml,masxmenos costa rica,8310.0,medio,medio,True
+2026-09-28,Vino blanco,vino clos de pirque blanco - 1000ml,masxmenos costa rica,1867.5,económico,económico,True
+2026-09-28,Vinos general,vino torres celeste roble tinto - 750 ml vendido por walmart patrocinado,walmart costa rica,5200.0,medio,medio,True
+2026-09-28,Vinos general,vino misiones rengo cabernet 750 ml vendido por walmart patrocinado,walmart costa rica,13050.0,premium,medio,False
+2026-09-28,Vino blanco,vino sta rita 3 med bco sauvig 750 ml patrocinado,masxmenos costa rica,7040.0,medio,económico,False
+2026-09-28,Vino blanco,vino contenda sauvignon blanc - 750 ml patrocinado,masxmenos costa rica,4730.0,económico,económico,True
+2026-09-28,Vino blanco,vino adobe chardonnay orgánico -375 ml patrocinado,masxmenos costa rica,5200.0,medio,medio,True
+2026-09-28,Vino blanco,vino marques de caceres blanco 750ml patrocinado,masxmenos costa rica,4900.0,económico,económico,True
+2026-09-28,Vino blanco,vino maipo sauvignon blanco clasic series -750 ml patrocinado,masxmenos costa rica,8020.0,medio,económico,False
+2026-09-28,Vino blanco,vino don simón premium selección chardonnay - 1000 ml patrocinado,masxmenos costa rica,2535.0,económico,económico,True
+2026-09-28,Vino blanco,vino peter brum liebfraulmil blan - 750ml patrocinado,masxmenos costa rica,2530.0,económico,económico,True
+2026-09-28,Vino blanco,vino blanco protos verdejo criado sobre lias finas - 750 ml patrocinado,masxmenos costa rica,5600.0,medio,medio,True
+2026-09-28,Vino blanco,vino blanco la linda sweet viognier – 750 ml,masxmenos costa rica,8380.0,medio,medio,True
+2026-09-28,Vino blanco,vino blanco teber dulce - 750ml,masxmenos costa rica,3950.0,económico,económico,True
+2026-09-28,Vino blanco,navarro col. privada chardonnay 750 ml,masxmenos costa rica,10300.0,premium,premium,True
+2026-09-28,Vino blanco,vino maipo blanco chardonnay -1.5 l,masxmenos costa rica,3750.0,económico,económico,True
+2026-09-28,Vino blanco,vino frontera chardonnay - 1500ml,masxmenos costa rica,8940.0,medio,medio,True
+2026-09-28,Vino blanco,vino santa carolina chardonay botella - 750 ml,masxmenos costa rica,4100.0,económico,económico,True
+2026-09-28,Vino blanco,vino tinto fantini trebbiano d abruzzo -750ml,masxmenos costa rica,6110.0,medio,medio,True
+2026-09-28,Vino rosado,vino rosado canti prosecco - 750 ml,masxmenos costa rica,10810.0,premium,premium,True
+2026-09-28,Vino rosado,vino cavicchioli lambrusco rosato dulce - 750 ml,masxmenos costa rica,5200.0,medio,medio,True
+2026-09-28,Vino rosado,vino dulce rosado st. helena – 750 ml,masxmenos costa rica,5220.0,medio,medio,True
+2026-09-28,Vino rosado,vino làudum barrica - 750 ml,masxmenos costa rica,11200.0,premium,premium,True
+2026-09-28,Vino rosado,vino làudum reserva - 750 ml,masxmenos costa rica,11200.0,premium,premium,True
+2026-09-28,Vino rosado,vino làudum gran reserva - 750 ml,masxmenos costa rica,12700.0,premium,premium,True
+2026-09-28,Vino rosado,vino laudum chardonnay - 750 ml,masxmenos costa rica,9200.0,medio,medio,True
+2026-09-28,Vino rosado,vino les jamelles petite rosado - 750 ml,masxmenos costa rica,9810.0,medio,medio,True
+2026-09-28,Vino rosado,vino rosado ijalba rioja eco -750ml,masxmenos costa rica,9790.0,medio,medio,True
+2026-09-28,Vino rosado,vino rose carnivor apothic - 750 ml,masxmenos costa rica,14590.0,premium,premium,True
+2026-09-28,Vino rosado,frontera frutal pink paradise 750ml,masxmenos costa rica,4400.0,económico,económico,True
+2026-09-28,Vino rosado,vino tinto trapiche vineyards malbec 3 pack - 2250 ml,masxmenos costa rica,4100.0,económico,económico,True
+2026-09-28,Vino rosado,vino orgánico adobe rosé – 375 ml,masxmenos costa rica,6500.0,medio,medio,True
+2026-09-28,Vino rosado,vino soupcon de fruit rose d&apos;anjou 2020 - 750 ml,masxmenos costa rica,8020.0,medio,medio,True
+2026-09-28,Vino rosado,vino rosado frontera gently bubbly spritzer roses -750 ml,masxmenos costa rica,5770.0,medio,medio,True
+2026-09-28,Vino rosado,vino marques de caceres rosado rioja - 750ml,masxmenos costa rica,8810.0,medio,medio,True
+2026-09-28,Frontera,vino tinto frontera carmenere viñedo protegido por la naturaleza - 750 ml,masxmenos costa rica,5930.0,medio,medio,True
+2026-09-28,Frontera,vino frontera blanco sauvignon concha y toro - 750 ml,masxmenos costa rica,6070.0,medio,medio,True
+2026-09-28,Frontera,vino blanco frontera chardonnay viñedo protegido por la naturaleza - 750 ml,masxmenos costa rica,6070.0,medio,medio,True
+2026-09-28,Vino rosado,vino les jamelles petite rosado - 750 ml patrocinado,masxmenos costa rica,9200.0,medio,medio,True
+2026-09-28,Vino rosado,vino rosado ijalba rioja eco -750ml patrocinado,masxmenos costa rica,9810.0,medio,medio,True
+2026-09-28,Vino rosado,vino rose carnivor apothic - 750 ml patrocinado,masxmenos costa rica,9790.0,medio,premium,False
+2026-09-28,Vino rosado,vino tinto trapiche vineyards malbec 3 pack - 2250 ml patrocinado,masxmenos costa rica,1740.0,económico,económico,True
+2026-09-28,Vino rosado,vino orgánico adobe rosé – 375 ml patrocinado,masxmenos costa rica,24600.0,super premium,super premium,True
+2026-09-28,Vino rosado,vino soupcon de fruit rose d'anjou 2020 - 750 ml patrocinado,masxmenos costa rica,4900.0,económico,medio,False
+2026-09-28,Vino rosado,vino rosado frontera gently bubbly spritzer roses -750 ml patrocinado,masxmenos costa rica,8020.0,medio,medio,True
+2026-09-28,Vino rosado,vino marques de caceres rosado rioja - 750ml patrocinado,masxmenos costa rica,5770.0,medio,medio,True
+2026-09-28,Vino rosado,vino rosado cune bailarina 750mlx6,masxmenos costa rica,8670.0,medio,medio,True
+2026-09-28,Vino rosado,vino im your organic rosé - 750 ml,masxmenos costa rica,5840.0,medio,medio,True
+2026-09-28,Vino rosado,vino planeta la segreta bianco - 750 ml,masxmenos costa rica,14300.0,premium,premium,True
+2026-09-28,Vino rosado,vino rosado trapiche vineyards argentino - 750 ml,masxmenos costa rica,5640.0,medio,medio,True
+2026-09-28,Vino rosado,vino frontera rosado concha y toro chile - 750 ml,masxmenos costa rica,5770.0,medio,medio,True
+2026-09-28,Vino tinto,loma negra vino tinto merlot 750 ml / 25.4 oz,pricesmart costa rica,2395.0,económico,económico,True
+2026-09-28,Frontera,vino frontera concha y toro merlot - 750ml patrocinado,masxmenos costa rica,9380.0,medio,medio,True
+2026-09-28,Frontera,vino frontera merlot -1500 ml patrocinado,masxmenos costa rica,2965.0,económico,económico,True
+2026-09-28,Frontera,vino frontera rosado concha y toro chile - 750 ml patrocinado,masxmenos costa rica,7500.0,medio,medio,True
+2026-09-28,Frontera,vino tinto frontera carmenere viñedo protegido por la naturaleza - 750 ml patrocinado,masxmenos costa rica,5770.0,medio,medio,True
+2026-09-28,Frontera,vino frontera blanco sauvignon concha y toro - 750 ml patrocinado,masxmenos costa rica,5930.0,medio,medio,True
+2026-09-28,Frontera,vino rosado frontera gently bubbly spritzer roses -750 ml patrocinado,masxmenos costa rica,6070.0,medio,medio,True
+2026-09-28,Frontera,vino blanco frontera chardonnay viñedo protegido por la naturaleza - 750 ml patrocinado,masxmenos costa rica,5770.0,medio,medio,True
+2026-09-28,Frontera,vino blanco frontera spritzer chardonnay eldelflower - 750 ml patrocinado,masxmenos costa rica,6070.0,medio,medio,True
+2026-09-28,Frontera,"vinos sub-categoría vino tinto vino blanco vino rosado departamento cervezas, vinos y licores rebaja exclusiva en línea rangos de precio",masxmenos costa rica,4200.0,económico,económico,True
+2026-09-28,Frontera,vino frontera frutal tropical mango maracuyá - 750 ml,masxmenos costa rica,4400.0,económico,económico,True
+2026-09-28,Frontera,vino blanco frontera sauvignon blanc - 1500 ml,masxmenos costa rica,4560.0,económico,económico,True
+2026-09-28,Frontera,frontera cabernet sauvignon 750ml,masxmenos costa rica,5930.0,medio,medio,True
+2026-09-28,Frontera,vino frontera tinto concha y toro cabernet - 1500 ml,masxmenos costa rica,4690.0,económico,económico,True
+2026-09-28,Frontera,vino frontera concha y toro merlot - 750ml,masxmenos costa rica,5930.0,medio,medio,True
+2026-09-28,Frontera,vino frontera merlot -1500 ml,masxmenos costa rica,3750.0,económico,económico,True
+2026-09-28,Vino tinto,santa rita 120 reserva especial vino tinto 4 unidades / 187.5 ml / 6.3 oz,pricesmart costa rica,7495.0,medio,medio,True
+2026-09-28,Vino tinto,legado muñoz vino tinto tempranillo 750 ml / 25.4 oz,pricesmart costa rica,4795.0,económico,económico,True
+2026-09-28,Vino tinto,alamos vino tinto malbec 750 ml,pricesmart costa rica,7495.0,medio,medio,True
+2026-09-28,Vino tinto,marqués de riscal vino tinto rioja reserva 750 ml,pricesmart costa rica,15995.0,super premium,super premium,True
+2026-09-28,Vino tinto,montepulciano vino tinto de frutos rojos 1.5 l / 51 oz,pricesmart costa rica,4397.5,económico,económico,True
+2026-09-28,Vino tinto,finca las moras botella de vino tinto malbec suave al paladar 750 ml / 25.4 oz,pricesmart costa rica,5495.0,medio,medio,True
+2026-09-28,Vino tinto,twin view estates cabernet sauvignon vino tinto 1.5 l,pricesmart costa rica,3397.5,económico,económico,True
+2026-09-28,Vino tinto,portia roble tempranillo vino tinto 750 ml,pricesmart costa rica,10995.0,premium,premium,True
+2026-09-28,Vino tinto,frontera merlot vino tinto chileno botella de 1.5 l / 51 oz,pricesmart costa rica,3647.5,económico,económico,True
+2026-09-28,Vino tinto,apothic vino tinto 750 ml / 25.4 oz,pricesmart costa rica,9495.0,medio,medio,True
+2026-09-28,Vino tinto,hacienda lópez de haro vino crianza 750 ml,pricesmart costa rica,8795.0,medio,medio,True
+2026-09-28,Vino tinto,clos de pirque vino tinto cabernet sauvignon 3 unidades / 1 l,pricesmart costa rica,1698.75,económico,económico,True
+2026-09-28,Vino tinto,marques caceres crianza vino tinto 750 ml / 25.4 oz,pricesmart costa rica,9295.0,medio,premium,False
+2026-09-28,Vino tinto,manischewitz concord grape vino tinto 750 ml / 25.36 oz,pricesmart costa rica,5495.0,medio,medio,True
+2026-09-28,Vino tinto,cune vino tinto crianza rioja 750 ml / 25.36 oz,pricesmart costa rica,8795.0,medio,medio,True
+2026-09-28,Vino tinto,rioja próximo tempranillo vino tinto 750 ml / 25.4 oz,pricesmart costa rica,5795.0,medio,medio,True
+2026-09-28,Vino tinto,douce nature vino tinto pinot noir orgánico 750 ml / 25.36 oz,pricesmart costa rica,7670.0,medio,medio,True
+2026-09-28,Vino tinto,pasqua zin primitivo vino tinto 750 ml,pricesmart costa rica,11995.0,premium,premium,True
+2026-09-28,Vino tinto,cantina fiorentino primitivo salento vino tinto 750 ml,pricesmart costa rica,9795.0,medio,medio,True
+2026-09-28,Vino tinto,santa rita 120 carmenere vino tinto 750 ml,pricesmart costa rica,6495.0,medio,medio,True
+2026-09-28,Vino tinto,ruffino vino tinto chianti classico 750 ml / 25.36 oz,pricesmart costa rica,8495.0,medio,medio,True
+2026-09-28,Vino tinto,el coto crianza rioja vino tinto tempranillo 750 ml,pricesmart costa rica,9795.0,medio,medio,True
+2026-09-28,Vino tinto,real compañia vino tinto tempranillo botella de 750 ml / 25.4 oz,pricesmart costa rica,4995.0,económico,económico,True
+2026-09-28,Vino tinto,campo viejo vino tinto reserva 750 ml,pricesmart costa rica,14995.0,premium,premium,True
+2026-09-28,Vino tinto,catena vista flores vino tinto malbec 750 ml,pricesmart costa rica,12995.0,premium,premium,True
+2026-09-28,Vino tinto,muga vino tinto español el anden de la estación 750 ml,pricesmart costa rica,15495.0,super premium,super premium,True
+2026-09-28,Vino tinto,baron philippe de rothschild vino tinto cabernet sauvignon 750 ml / 25.36 oz,pricesmart costa rica,9295.0,medio,medio,True
+2026-09-28,Vino tinto,montes limited selection vino cabernet sauvignon camenère 750 ml / 25.3 oz,pricesmart costa rica,10495.0,premium,premium,True
+2026-09-28,Vino tinto,m. chapoutier vino tinto côtes du rhône 750 ml / 25.36 oz,pricesmart costa rica,10495.0,premium,premium,True
+2026-09-28,Vino tinto,ramon bilbao vino tinto crianza 750 ml,pricesmart costa rica,11495.0,premium,premium,True
+2026-09-28,Vino tinto,carlo rossi vino tinto cuerpo medio 3 l / 101.4 oz,pricesmart costa rica,3448.75,económico,económico,True
+2026-09-28,Vino tinto,faustino rivero ulecia set vinos rioja 3 unidades / 750 ml,pricesmart costa rica,6931.67,medio,medio,True
+2026-09-28,Vino blanco,casal mendes vino verde 750 ml / 25.4 oz,pricesmart costa rica,5495.0,medio,medio,True
+2026-09-28,Vino blanco,los vascos vino blanco sauvignon blanc 750 ml / 25.36 oz,pricesmart costa rica,10495.0,premium,premium,True
+2026-09-28,Vino blanco,clos de pirque vino blanco 3 unidades / 1 l,pricesmart costa rica,1698.75,económico,económico,True
+2026-09-28,Vino blanco,santa margherita vino blanco pinot grigio 750 ml / 25.36 oz,pricesmart costa rica,15495.0,super premium,super premium,True
+2026-09-28,Vino blanco,frontera concha & toro vino blanco sauvignon blanc semi 1.5 l,pricesmart costa rica,3897.5,económico,económico,True
+2026-09-28,Vino blanco,marqués de riscal vino blanco 750 ml,pricesmart costa rica,7995.0,medio,medio,True
+2026-09-28,Vino blanco,loma negra chardonnay classic vino blanco 750 ml / 25.4 oz,pricesmart costa rica,2395.0,económico,económico,True
+2026-09-28,Vino blanco,protos verdejo vino blanco 750 ml,pricesmart costa rica,7495.0,medio,medio,True
+2026-09-28,Vino tinto,montecillo rioja crianza vino tinto 750 ml,pricesmart costa rica,9470.0,medio,medio,True
+2026-09-28,Vino tinto,arrogante frog cabernet sauvignon merlot vino tinto 750 ml,pricesmart costa rica,4970.0,económico,económico,True
+2026-09-29,Vino tinto,vino frontera merlot -1500 ml,walmart costa rica,3750.0,económico,económico,True
+2026-09-29,Vino tinto,vino tinto contenda merlot - 750 ml,walmart costa rica,2580.0,económico,económico,True
+2026-09-29,Vino tinto,vino viña maipo clasic series merlot - 750 ml,walmart costa rica,3340.0,económico,económico,True
+2026-09-29,Vino tinto,vino tinto don simón tempranillo -750 ml,walmart costa rica,1980.0,económico,económico,True
+2026-09-29,Vino tinto,vino clos de pirque cabernet sauvignon - 1000ml,walmart costa rica,1725.0,económico,económico,True
+2026-09-29,Vino tinto,vino clos de pirque tinto merlot - 1000ml,walmart costa rica,1875.0,económico,económico,True
+2026-09-28,Vino rosado,taanug vino rosado francés aroma a fresas 750 ml,pricesmart costa rica,8795.0,medio,medio,True
+2026-09-28,Vino rosado,viña esmeralda vino rosado español aroma frutal 750 ml,pricesmart costa rica,3970.0,económico,económico,True
+2026-09-28,Vino rosado,dibon vino rosado sin alcohol 750 ml / 25.3 oz,pricesmart costa rica,7795.0,medio,medio,True
+2026-09-28,Vino rosado,pasqua 11 minutes vino rosado 750 ml,pricesmart costa rica,13995.0,premium,premium,True
+2026-09-28,Vino rosado,the beach by whispering angel vino rosado francés 750 ml,pricesmart costa rica,12470.0,premium,premium,True
+2026-09-28,Vino rosado,soupçon de fruit rosé d'anjou botella de vino rosado 750 ml / 25.4 oz,pricesmart costa rica,7795.0,medio,medio,True
+2026-09-28,Vino rosado,astoria prosecco rosé vino rosado 750 ml / 25.4 oz,pricesmart costa rica,5795.0,medio,medio,True
+2026-09-28,Vino rosado,mateus the original vino rosado espumoso portugués 1 l,pricesmart costa rica,5846.25,medio,medio,True
+2026-09-28,Vino rosado,pack jp chenet rosé dry vino espumoso 750 ml + chocolate vizzio 70 g,pricesmart costa rica,6370.0,medio,medio,True
+2026-09-28,Vino rosado,les jamelles vino rosado francés 750 ml / 25.36 oz,pricesmart costa rica,8795.0,medio,medio,True
+2026-09-29,Vino tinto,vino clos de pirque tinto merlot - 1000ml vendido por walmart patrocinado,walmart costa rica,1725.0,económico,económico,True
+2026-09-29,Vino tinto,vino blanco marques de riscal verdejo - 750 ml,walmart costa rica,9930.0,medio,medio,True
+2026-09-29,Vino tinto,vino orgánico adobe cabernet sauvignon - 375 ml,walmart costa rica,6500.0,medio,medio,True
+2026-09-29,Vino tinto,vino tinto don simón premium cabernet - 1 l,walmart costa rica,1942.5,económico,económico,True
+2026-09-29,Vino tinto,vino blanco trapiche pinot grigio -750ml,walmart costa rica,5480.0,medio,medio,True
+2026-09-29,Vino tinto,vino don simon premium merlot - 1000ml,walmart costa rica,1815.0,económico,económico,True
+2026-09-29,Vino tinto,vino santa cecilia tinto cabernet sauvignon -750 ml,walmart costa rica,3870.0,económico,económico,True
+2026-09-29,Vino tinto,2 pack sangría don simon -3000ml,walmart costa rica,1627.5,económico,económico,True
+2026-09-29,Vino tinto,vino tinto luigi bosca malbec - 750 ml,walmart costa rica,11500.0,premium,premium,True
+2026-09-29,Vino tinto,vino viña maipo classic series cabernet sauvignon -750 ml,walmart costa rica,3340.0,económico,económico,True
+2026-09-29,Vino tinto,vino tinto teber dulce - 750ml,walmart costa rica,3830.0,económico,económico,True
+2026-09-29,Vino tinto,vino frontera frutal tinto de verano manzana naranja - 750 ml,walmart costa rica,4400.0,económico,económico,True
+2026-09-29,Vino tinto,vino clos dp cabernet tinto sauvignon - 2000ml,walmart costa rica,4680.0,económico,económico,True
+2026-09-29,Vino tinto,navarro colección privada vero faraone malbec - 750ml,walmart costa rica,11630.0,premium,premium,True
+2026-09-29,Vino tinto,2 pack sangria peñasol tinta -1000ml,walmart costa rica,3487.5,económico,económico,True
+2026-09-29,Vino tinto,vino tinto finca las moras malbec con 13.5% vol - 750 ml,walmart costa rica,5830.0,medio,económico,False
+2026-09-29,Vinos general,vino tarapacá tinto merlot - 750 ml,walmart costa rica,5670.0,medio,medio,True
+2026-09-29,Vinos general,vino tinto luigi bosca cabernet sauvignon 2020 - 750 ml,walmart costa rica,11500.0,premium,premium,True
+2026-09-29,Vinos general,frontera cabernet sauvignon 750ml,walmart costa rica,5800.0,medio,medio,True
+2026-09-29,Vinos general,frontera frutal pink paradise 750ml,walmart costa rica,4400.0,económico,económico,True
+2026-09-29,Vinos general,vino torres celeste roble tinto - 750 ml,walmart costa rica,10000.0,medio,medio,True
+2026-09-29,Vinos general,vino tinto santa rita 120 carmenere - 750ml,walmart costa rica,7970.0,medio,medio,True
+2026-09-29,Vinos general,vino misiones rengo cabernet 750 ml,walmart costa rica,4740.0,económico,económico,True
+2026-09-29,Vinos general,vino mr wild chardonnay 750 ml,walmart costa rica,11150.0,premium,premium,True
+2026-09-29,Vinos general,vino casillero del diablo chardonnay - 750ml,walmart costa rica,8800.0,medio,medio,True
+2026-09-29,Vinos general,vino don símon tinto de mesa - 1000ml,walmart costa rica,1620.0,económico,económico,True
+2026-09-29,Vino tinto,vino frontera merlot -1500 ml vendido por walmart patrocinado,walmart costa rica,2915.0,económico,económico,True
+2026-09-29,Vino tinto,vino tinto contenda merlot - 750 ml vendido por walmart patrocinado,walmart costa rica,7500.0,medio,económico,False
+2026-09-29,Vino tinto,vino viña maipo clasic series merlot - 750 ml vendido por walmart patrocinado,walmart costa rica,2580.0,económico,económico,True
+2026-09-29,Vino tinto,vino tinto don simón tempranillo -750 ml vendido por walmart patrocinado,walmart costa rica,3340.0,económico,económico,True
+2026-09-29,Vino tinto,vino clos de pirque cabernet sauvignon - 1000ml vendido por walmart patrocinado,walmart costa rica,1485.0,económico,económico,True
+2026-09-29,Vinos general,vino tinto santa rita 120 carmenere - 750ml vendido por walmart patrocinado,walmart costa rica,13050.0,premium,medio,False
+2026-09-29,Vinos general,vino misiones rengo cabernet 750 ml vendido por walmart patrocinado,walmart costa rica,7970.0,medio,medio,True
+2026-09-29,Vinos general,vino casillero del diablo chardonnay - 750ml vendido por walmart patrocinado,walmart costa rica,11150.0,premium,premium,True
+2026-09-29,Vinos general,vino don símon tinto de mesa - 1000ml vendido por walmart patrocinado,walmart costa rica,6600.0,medio,económico,False
+2026-09-29,Vinos general,vino tinto byg merlot reserve - 750ml,walmart costa rica,9000.0,medio,medio,True
+2026-09-29,Vinos general,vino riunite blanco melocotón - 750 ml,walmart costa rica,4300.0,económico,económico,True
+2026-09-29,Vinos general,vino tinto protos roble botella - 750 ml,walmart costa rica,12140.0,premium,premium,True
+2026-09-29,Vinos general,vino undurraga tinto merlot -750 ml,walmart costa rica,4240.0,económico,económico,True
+2026-09-29,Vinos general,vino tinto undurraga cabernet - 750 ml,walmart costa rica,5120.0,medio,medio,True
+2026-09-29,Vinos general,"vino rosado b &amp; g cotes de provence, 2 pack -750 ml",walmart costa rica,20760.0,super premium,super premium,True
+2026-09-29,Vinos general,vino beringer zinfandel rosado - 750ml,walmart costa rica,6300.0,medio,medio,True
+2026-09-29,Vinos general,vino pata negra valdepenas crianza - 750 ml,walmart costa rica,5670.0,medio,medio,True
+2026-09-29,Vinos general,vino tinto robert mondavi mondavi cabernet sauvignon - 750 ml,walmart costa rica,13960.0,premium,premium,True
+2026-09-29,Vinos general,vino viñas del tango malbec - 1125 ml,walmart costa rica,5333.33,medio,medio,True
+2026-09-29,Vinos general,vino tinto santa cecilia cabernet sauvignon – 1500 ml,walmart costa rica,3680.0,económico,económico,True
+2026-09-29,Vino blanco,vino luigi bosca de sangre - 750 ml,masxmenos costa rica,16600.0,super premium,super premium,True
+2026-09-29,Vino blanco,vino blanco frontera spritzer chardonnay eldelflower - 750 ml,masxmenos costa rica,5910.0,medio,medio,True
+2026-09-29,Vino blanco,vino blanco carmen frida sauvignon blanc – 750 ml,masxmenos costa rica,7040.0,medio,medio,True
+2026-09-29,Vino blanco,vino sta rita 3 med bco sauvig 750 ml,masxmenos costa rica,4730.0,económico,económico,True
+2026-09-29,Vino blanco,vino contenda sauvignon blanc - 750 ml,masxmenos costa rica,2600.0,económico,económico,True
+2026-09-29,Vino blanco,vino adobe chardonnay orgánico -375 ml,masxmenos costa rica,6500.0,medio,medio,True
+2026-09-29,Vino blanco,vino marques de caceres blanco 750ml,masxmenos costa rica,8020.0,medio,medio,True
+2026-09-29,Vino blanco,vino maipo sauvignon blanco clasic series -750 ml,masxmenos costa rica,3380.0,económico,económico,True
+2026-09-29,Vino blanco,vino don simón premium selección chardonnay - 1000 ml,masxmenos costa rica,1897.5,económico,económico,True
+2026-09-29,Vino blanco,vino peter brum liebfraulmil blan - 750ml,masxmenos costa rica,5600.0,medio,medio,True
+2026-09-29,Vino blanco,vino blanco fantini terre siciliante pinot grigio - 750 ml,masxmenos costa rica,6110.0,medio,medio,True
+2026-09-29,Vino blanco,vino blanco blue nun authentic white- 750ml,masxmenos costa rica,6830.0,medio,medio,True
+2026-09-29,Vino blanco,vino blanco protos verdejo criado sobre lias finas - 750 ml,masxmenos costa rica,8310.0,medio,medio,True
+2026-09-29,Vino blanco,vino clos de pirque blanco - 1000ml,masxmenos costa rica,1867.5,económico,económico,True
+2026-09-29,Vinos general,vino tinto luigi bosca cabernet sauvignon 2020 - 750 ml vendido por walmart patrocinado,walmart costa rica,5670.0,medio,premium,False
+2026-09-29,Vinos general,vino torres celeste roble tinto - 750 ml vendido por walmart patrocinado,walmart costa rica,5200.0,medio,medio,True
+2026-09-29,Vino blanco,vino adobe chardonnay orgánico -375 ml patrocinado,masxmenos costa rica,5200.0,medio,medio,True
+2026-09-29,Vino blanco,vino marques de caceres blanco 750ml patrocinado,masxmenos costa rica,4900.0,económico,económico,True
+2026-09-29,Vino blanco,vino maipo sauvignon blanco clasic series -750 ml patrocinado,masxmenos costa rica,8020.0,medio,económico,False
+2026-09-29,Vino blanco,vino don simón premium selección chardonnay - 1000 ml patrocinado,masxmenos costa rica,2535.0,económico,económico,True
+2026-09-29,Vino blanco,vino peter brum liebfraulmil blan - 750ml patrocinado,masxmenos costa rica,2530.0,económico,económico,True
+2026-09-29,Vino blanco,vino blanco fantini terre siciliante pinot grigio - 750 ml patrocinado,masxmenos costa rica,5600.0,medio,medio,True
+2026-09-29,Vino blanco,vino blanco blue nun authentic white- 750ml patrocinado,masxmenos costa rica,6110.0,medio,económico,False
+2026-09-29,Vino blanco,vino blanco protos verdejo criado sobre lias finas - 750 ml patrocinado,masxmenos costa rica,6830.0,medio,medio,True
+2026-09-29,Vino blanco,vino blanco teber dulce - 750ml,masxmenos costa rica,3950.0,económico,económico,True
+2026-09-29,Vino blanco,navarro col. privada chardonnay 750 ml,masxmenos costa rica,10300.0,premium,premium,True
+2026-09-29,Vino blanco,vino maipo blanco chardonnay -1.5 l,masxmenos costa rica,3750.0,económico,económico,True
+2026-09-29,Vino blanco,vino frontera chardonnay - 1500ml,masxmenos costa rica,8940.0,medio,medio,True
+2026-09-29,Vino blanco,vino santa carolina chardonay botella - 750 ml,masxmenos costa rica,4100.0,económico,económico,True
+2026-09-29,Vino blanco,vino blanco pasqua pinot grigio -1500ml,masxmenos costa rica,5780.0,medio,medio,True
+2026-09-29,Vino blanco,vino marina alta blanco 00 - 750 ml,masxmenos costa rica,8600.0,medio,medio,True
+2026-09-29,Vino rosado,vino frontera rosado concha y toro chile - 750 ml,masxmenos costa rica,5770.0,medio,medio,True
+2026-09-29,Vino rosado,vino rosado canti prosecco - 750 ml,masxmenos costa rica,10810.0,premium,premium,True
+2026-09-29,Vino rosado,vino cavicchioli lambrusco rosato dulce - 750 ml,masxmenos costa rica,5200.0,medio,medio,True
+2026-09-29,Vino rosado,vino dulce rosado st. helena – 750 ml,masxmenos costa rica,5220.0,medio,medio,True
+2026-09-29,Vino rosado,vino làudum barrica - 750 ml,masxmenos costa rica,11200.0,premium,premium,True
+2026-09-29,Vino rosado,vino làudum reserva - 750 ml,masxmenos costa rica,11200.0,premium,premium,True
+2026-09-29,Vino rosado,vino laudum chardonnay - 750 ml,masxmenos costa rica,9200.0,medio,medio,True
+2026-09-29,Vino rosado,vino les jamelles petite rosado - 750 ml,masxmenos costa rica,9810.0,medio,medio,True
+2026-09-29,Vino rosado,vino làudum gran reserva - 750 ml,masxmenos costa rica,12700.0,premium,premium,True
+2026-09-29,Vino rosado,vino rose carnivor apothic - 750 ml,masxmenos costa rica,14590.0,premium,premium,True
+2026-09-29,Vino rosado,frontera frutal pink paradise 750ml,masxmenos costa rica,4400.0,económico,económico,True
+2026-09-29,Vino rosado,vino tinto trapiche vineyards malbec 3 pack - 2250 ml,masxmenos costa rica,4100.0,económico,económico,True
+2026-09-29,Vino rosado,vino orgánico adobe rosé – 375 ml,masxmenos costa rica,6500.0,medio,medio,True
+2026-09-29,Vino rosado,vino soupcon de fruit rose d&apos;anjou 2020 - 750 ml,masxmenos costa rica,8020.0,medio,medio,True
+2026-09-29,Vino rosado,vino rosado frontera gently bubbly spritzer roses -750 ml,masxmenos costa rica,5770.0,medio,medio,True
+2026-09-29,Vino rosado,vino marques de caceres rosado rioja - 750ml,masxmenos costa rica,8810.0,medio,medio,True
+2026-09-29,Frontera,vino tinto frontera carmenere viñedo protegido por la naturaleza - 750 ml,masxmenos costa rica,5930.0,medio,medio,True
+2026-09-29,Frontera,vino frontera blanco sauvignon concha y toro - 750 ml,masxmenos costa rica,6070.0,medio,medio,True
+2026-09-29,Frontera,vino blanco frontera chardonnay viñedo protegido por la naturaleza - 750 ml,masxmenos costa rica,6070.0,medio,medio,True
+2026-09-29,Vino rosado,vino les jamelles petite rosado - 750 ml patrocinado,masxmenos costa rica,9200.0,medio,medio,True
+2026-09-29,Vino rosado,vino làudum gran reserva - 750 ml patrocinado,masxmenos costa rica,9810.0,medio,premium,False
+2026-09-29,Vino rosado,vino tinto trapiche vineyards malbec 3 pack - 2250 ml patrocinado,masxmenos costa rica,1740.0,económico,económico,True
+2026-09-29,Vino rosado,vino orgánico adobe rosé – 375 ml patrocinado,masxmenos costa rica,24600.0,super premium,super premium,True
+2026-09-29,Vino rosado,vino soupcon de fruit rose d'anjou 2020 - 750 ml patrocinado,masxmenos costa rica,4900.0,económico,medio,False
+2026-09-29,Vino rosado,vino rosado frontera gently bubbly spritzer roses -750 ml patrocinado,masxmenos costa rica,8020.0,medio,medio,True
+2026-09-29,Vino rosado,vino marques de caceres rosado rioja - 750ml patrocinado,masxmenos costa rica,5770.0,medio,medio,True
+2026-09-29,Vino rosado,vino trivento reserva malbec rosado - 750 ml,masxmenos costa rica,8730.0,medio,medio,True
+2026-09-29,Vino rosado,vino rosado cune bailarina 750mlx6,masxmenos costa rica,8670.0,medio,medio,True
+2026-09-29,Vino rosado,vino im your organic rosé - 750 ml,masxmenos costa rica,5840.0,medio,medio,True
+2026-09-29,Vino rosado,vino planeta la segreta bianco - 750 ml,masxmenos costa rica,14300.0,premium,premium,True
+2026-09-29,Vino rosado,vino rosado trapiche vineyards argentino - 750 ml,masxmenos costa rica,5640.0,medio,medio,True
+2026-09-29,Vino tinto,loma negra vino tinto merlot 750 ml / 25.4 oz,pricesmart costa rica,2395.0,económico,económico,True
+2026-09-29,Frontera,vino frontera concha y toro merlot - 750ml patrocinado,masxmenos costa rica,9380.0,medio,medio,True
+2026-09-29,Frontera,vino frontera merlot -1500 ml patrocinado,masxmenos costa rica,2965.0,económico,económico,True
+2026-09-29,Frontera,vino frontera rosado concha y toro chile - 750 ml patrocinado,masxmenos costa rica,7500.0,medio,medio,True
+2026-09-29,Frontera,vino tinto frontera carmenere viñedo protegido por la naturaleza - 750 ml patrocinado,masxmenos costa rica,5770.0,medio,medio,True
+2026-09-29,Frontera,vino frontera blanco sauvignon concha y toro - 750 ml patrocinado,masxmenos costa rica,5930.0,medio,medio,True
+2026-09-29,Frontera,vino rosado frontera gently bubbly spritzer roses -750 ml patrocinado,masxmenos costa rica,6070.0,medio,medio,True
+2026-09-29,Frontera,vino blanco frontera chardonnay viñedo protegido por la naturaleza - 750 ml patrocinado,masxmenos costa rica,5770.0,medio,medio,True
+2026-09-29,Frontera,vino blanco frontera spritzer chardonnay eldelflower - 750 ml patrocinado,masxmenos costa rica,6070.0,medio,medio,True
+2026-09-29,Frontera,"vinos sub-categoría vino tinto vino blanco vino rosado departamento cervezas, vinos y licores rebaja exclusiva en línea rangos de precio",masxmenos costa rica,4200.0,económico,económico,True
+2026-09-29,Frontera,vino frontera frutal tropical mango maracuyá - 750 ml,masxmenos costa rica,4400.0,económico,económico,True
+2026-09-29,Frontera,vino blanco frontera sauvignon blanc - 1500 ml,masxmenos costa rica,4560.0,económico,económico,True
+2026-09-29,Frontera,frontera cabernet sauvignon 750ml,masxmenos costa rica,5930.0,medio,medio,True
+2026-09-29,Frontera,vino frontera tinto concha y toro cabernet - 1500 ml,masxmenos costa rica,4690.0,económico,económico,True
+2026-09-29,Frontera,vino frontera concha y toro merlot - 750ml,masxmenos costa rica,5930.0,medio,medio,True
+2026-09-29,Frontera,vino frontera merlot -1500 ml,masxmenos costa rica,3750.0,económico,económico,True
+2026-09-29,Vino tinto,santa rita 120 reserva especial vino tinto 4 unidades / 187.5 ml / 6.3 oz,pricesmart costa rica,7495.0,medio,medio,True
+2026-09-29,Vino tinto,legado muñoz vino tinto tempranillo 750 ml / 25.4 oz,pricesmart costa rica,4795.0,económico,económico,True
+2026-09-29,Vino tinto,alamos vino tinto malbec 750 ml,pricesmart costa rica,7495.0,medio,medio,True
+2026-09-29,Vino tinto,marqués de riscal vino tinto rioja reserva 750 ml,pricesmart costa rica,15995.0,super premium,super premium,True
+2026-09-29,Vino tinto,montepulciano vino tinto de frutos rojos 1.5 l / 51 oz,pricesmart costa rica,4397.5,económico,económico,True
+2026-09-29,Vino tinto,finca las moras botella de vino tinto malbec suave al paladar 750 ml / 25.4 oz,pricesmart costa rica,5495.0,medio,medio,True
+2026-09-29,Vino tinto,twin view estates cabernet sauvignon vino tinto 1.5 l,pricesmart costa rica,3397.5,económico,económico,True
+2026-09-29,Vino tinto,portia roble tempranillo vino tinto 750 ml,pricesmart costa rica,10995.0,premium,premium,True
+2026-09-29,Vino tinto,apothic vino tinto 750 ml / 25.4 oz,pricesmart costa rica,9495.0,medio,medio,True
+2026-09-29,Vino tinto,hacienda lópez de haro vino crianza 750 ml,pricesmart costa rica,8795.0,medio,medio,True
+2026-09-29,Vino tinto,frontera merlot vino tinto chileno botella de 1.5 l / 51 oz,pricesmart costa rica,3647.5,económico,económico,True
+2026-09-29,Vino tinto,clos de pirque vino tinto cabernet sauvignon 3 unidades / 1 l,pricesmart costa rica,1698.75,económico,económico,True
+2026-09-29,Vino tinto,marques caceres crianza vino tinto 750 ml / 25.4 oz,pricesmart costa rica,9295.0,medio,premium,False
+2026-09-29,Vino tinto,manischewitz concord grape vino tinto 750 ml / 25.36 oz,pricesmart costa rica,5495.0,medio,medio,True
+2026-09-29,Vino tinto,cune vino tinto crianza rioja 750 ml / 25.36 oz,pricesmart costa rica,8795.0,medio,medio,True
+2026-09-29,Vino tinto,rioja próximo tempranillo vino tinto 750 ml / 25.4 oz,pricesmart costa rica,5795.0,medio,medio,True
+2026-09-29,Vino tinto,douce nature vino tinto pinot noir orgánico 750 ml / 25.36 oz,pricesmart costa rica,7670.0,medio,medio,True
+2026-09-29,Vino tinto,cantina fiorentino primitivo salento vino tinto 750 ml,pricesmart costa rica,9795.0,medio,medio,True
+2026-09-29,Vino tinto,baron philippe de rothschild vino tinto cabernet sauvignon 750 ml / 25.36 oz,pricesmart costa rica,9295.0,medio,medio,True
+2026-09-29,Vino tinto,santa rita 120 carmenere vino tinto 750 ml,pricesmart costa rica,6495.0,medio,medio,True
+2026-09-29,Vino tinto,ruffino vino tinto chianti classico 750 ml / 25.36 oz,pricesmart costa rica,8495.0,medio,medio,True
+2026-09-29,Vino tinto,el coto crianza rioja vino tinto tempranillo 750 ml,pricesmart costa rica,9795.0,medio,medio,True
+2026-09-29,Vino tinto,real compañia vino tinto tempranillo botella de 750 ml / 25.4 oz,pricesmart costa rica,4995.0,económico,económico,True
+2026-09-29,Vino tinto,campo viejo vino tinto reserva 750 ml,pricesmart costa rica,14995.0,premium,premium,True
+2026-09-29,Vino tinto,muga vino tinto español el anden de la estación 750 ml,pricesmart costa rica,15495.0,super premium,super premium,True
+2026-09-29,Vino tinto,catena vista flores vino tinto malbec 750 ml,pricesmart costa rica,12995.0,premium,premium,True
+2026-09-29,Vino tinto,pasqua zin primitivo vino tinto 750 ml,pricesmart costa rica,11995.0,premium,premium,True
+2026-09-29,Vino tinto,montes limited selection vino cabernet sauvignon camenère 750 ml / 25.3 oz,pricesmart costa rica,10495.0,premium,premium,True
+2026-09-29,Vino tinto,m. chapoutier vino tinto côtes du rhône 750 ml / 25.36 oz,pricesmart costa rica,10495.0,premium,premium,True
+2026-09-29,Vino tinto,ramon bilbao vino tinto crianza 750 ml,pricesmart costa rica,11495.0,premium,premium,True
+2026-09-29,Vino tinto,carlo rossi vino tinto cuerpo medio 3 l / 101.4 oz,pricesmart costa rica,3448.75,económico,económico,True
+2026-09-29,Vino tinto,faustino rivero ulecia set vinos rioja 3 unidades / 750 ml,pricesmart costa rica,6931.67,medio,medio,True
+2026-09-29,Vino blanco,los vascos vino blanco sauvignon blanc 750 ml / 25.36 oz,pricesmart costa rica,10495.0,premium,premium,True
+2026-09-29,Vino blanco,casal garcía vino blanco vinho verde 750 ml,pricesmart costa rica,7995.0,medio,medio,True
+2026-09-29,Vino blanco,marqués de riscal vino blanco 750 ml,pricesmart costa rica,7995.0,medio,medio,True
+2026-09-29,Vino blanco,clos de pirque vino blanco 3 unidades / 1 l,pricesmart costa rica,1698.75,económico,económico,True
+2026-09-29,Vino blanco,santa margherita vino blanco pinot grigio 750 ml / 25.36 oz,pricesmart costa rica,15495.0,super premium,super premium,True
+2026-09-29,Vino blanco,frontera concha & toro vino blanco sauvignon blanc semi 1.5 l,pricesmart costa rica,3897.5,económico,económico,True
+2026-09-29,Vino blanco,loma negra chardonnay classic vino blanco 750 ml / 25.4 oz,pricesmart costa rica,2395.0,económico,económico,True
+2026-09-29,Vino blanco,protos verdejo vino blanco 750 ml,pricesmart costa rica,7495.0,medio,medio,True
+2026-09-29,Vino tinto,misiones de rengo vino tinto cabernet sauvignon 750 ml / 25.36 oz,pricesmart costa rica,5995.0,medio,medio,True
+2026-09-29,Vino tinto,mantrús crianza vino tinto 750 ml / 25.36 oz,pricesmart costa rica,3770.0,económico,económico,True
+2026-09-29,Vino tinto,mantrús reserva vino tinto ribera del duero 750 ml / 25.36 oz,pricesmart costa rica,4995.0,económico,económico,True
+2026-09-29,Vino tinto,martinez alesanco rioja crianza vino tinto 750 ml / 25.36 oz,pricesmart costa rica,5495.0,medio,medio,True
+2026-09-29,Vino tinto,martinez alesanco rioja reserva vino tinto 750 ml / 25.36 oz,pricesmart costa rica,6495.0,medio,medio,True
+2026-09-29,Vino tinto,caliterra reserva vino tinto cabernet sauvignon 750 ml,pricesmart costa rica,6495.0,medio,medio,True
+2026-09-29,Vino tinto,pulenta estate malbec vino tinto 750 ml,pricesmart costa rica,20995.0,super premium,super premium,True
+2026-09-29,Vino tinto,bin 27 vino tinto reserve port fonseca 750 ml / 25.36 oz,pricesmart costa rica,14295.0,premium,premium,True
+2026-09-28,Vino tinto,misiones de rengo vino tinto cabernet sauvignon 750 ml / 25.36 oz,pricesmart costa rica,5995.0,medio,medio,True
+2026-09-28,Vino tinto,mantrús crianza vino tinto 750 ml / 25.36 oz,pricesmart costa rica,3770.0,económico,económico,True
+2026-09-28,Vino tinto,mantrús reserva vino tinto ribera del duero 750 ml / 25.36 oz,pricesmart costa rica,4995.0,económico,económico,True
+2026-09-28,Vino tinto,caliterra reserva vino tinto cabernet sauvignon 750 ml,pricesmart costa rica,6495.0,medio,medio,True
+2026-09-28,Vino tinto,pulenta estate malbec vino tinto 750 ml,pricesmart costa rica,20995.0,super premium,super premium,True
+2026-09-28,Vino tinto,bin 27 vino tinto reserve port fonseca 750 ml / 25.36 oz,pricesmart costa rica,14295.0,premium,premium,True
+2026-09-26,Vino tinto,mantrús reserva vino tinto ribera del duero 750 ml / 25.36 oz,pricesmart costa rica,4995.0,económico,económico,True
+2026-09-26,Vino tinto,bin 27 vino tinto reserve port fonseca 750 ml / 25.36 oz,pricesmart costa rica,14295.0,premium,premium,True
